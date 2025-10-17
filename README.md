@@ -70,11 +70,11 @@ Gestión ágil mediante **Azure DevOps (Scrum)** para planificación, seguimient
 
 ---
 
-## 🧩 Diagrama General 
+## 🧩 Diagrama General
 
 ```mermaid
 graph TD
-    A[Fuentes de Datos (DB, CSV, API)] --> B[ETL - Pentaho PDI]
+    A[Fuentes de Datos: DB, CSV, API] --> B[ETL - Pentaho PDI]
     B --> C[Data Warehouse - PostgreSQL]
     C --> D[Backend - Spring Boot]
     D --> E[Frontend - Angular]
