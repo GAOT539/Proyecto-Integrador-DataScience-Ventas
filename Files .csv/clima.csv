@@ -1,0 +1,21 @@
+fecha,ciudad,temp_max,temp_min,humedad,precipitacion,condicion
+2024-01-01,Riobamba,21.0,11.5,64,0.49,Parcialmente nublado
+2024-01-02,Quito,19.1,10.0,55,0.71,Tormentas
+2024-01-03,Cuenca,17.3,10.5,80,3.27,Lluvia ligera
+2024-01-04,Guayaquil,18.1,13.3,89,1.81,Nublado
+2024-01-05,Riobamba,18.4,9.5,69,0.92,Nublado
+2024-01-06,Quito,16.2,11.8,53,2.09,Lluvia ligera
+2024-01-07,Ambato,20.1,12.8,68,2.5,Lluvia ligera
+2024-01-08,Ambato,21.3,13.8,56,2.48,Tormentas
+2024-01-09,Quito,21.2,15.9,75,2.44,Nublado
+2024-01-10,Quito,20.2,12.6,63,4.85,Parcialmente nublado
+2024-01-11,Riobamba,18.4,9.9,84,4.23,Nublado
+2024-01-12,Quito,17.0,11.2,79,1.78,Parcialmente nublado
+2024-01-13,Ambato,20.6,11.1,69,3.24,Nublado
+2024-01-14,Cuenca,20.6,15.8,84,0.41,Lluvia ligera
+2024-01-15,Riobamba,17.6,13.4,63,3.23,Nublado
+2024-01-16,Riobamba,19.6,13.3,76,1.94,Tormentas
+2024-01-17,Ambato,17.4,9.5,88,4.77,Lluvia ligera
+2024-01-18,Cuenca,16.1,10.1,82,0.98,Nublado
+2024-01-19,Guayaquil,15.7,10.9,67,0.79,Nublado
+2024-01-20,Guayaquil,20.5,14.4,75,3.85,Nublado
