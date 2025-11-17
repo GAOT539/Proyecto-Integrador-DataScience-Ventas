@@ -1,0 +1,1701 @@
+fecha,ciudad,temperatura_max,temperatura_min,humedad,precipitacion,condicion
+2024-01-01,Ambato,28.8,12.4,45,0.0,Lluvia
+2024-01-01,Quito,15.6,12.6,69,0.0,Soleado
+2024-01-01,Cuenca,15.5,12.7,88,0.0,Soleado
+2024-01-01,Guayaquil,22.0,15.5,83,0.0,Nublado
+2024-01-01,Riobamba,15.8,14.8,46,9.9,Nublado
+2024-01-02,Ambato,16.8,9.4,76,0.0,Soleado
+2024-01-02,Quito,27.2,16.2,67,0.0,Nublado
+2024-01-02,Cuenca,23.0,8.3,51,12.2,Nublado
+2024-01-02,Guayaquil,22.1,17.5,74,0.0,Nublado
+2024-01-02,Riobamba,24.7,10.6,44,0.0,Lluvia
+2024-01-03,Ambato,24.6,17.8,46,0.0,Nublado
+2024-01-03,Quito,20.3,16.5,76,0.0,Soleado
+2024-01-03,Cuenca,15.2,9.5,67,0.0,Parcialmente nublado
+2024-01-03,Guayaquil,18.5,11.7,72,0.0,Lluvia
+2024-01-03,Riobamba,28.1,13.7,67,0.0,Nublado
+2024-01-04,Ambato,26.9,17.9,83,0.0,Parcialmente nublado
+2024-01-04,Quito,17.0,10.2,77,0.0,Parcialmente nublado
+2024-01-04,Cuenca,19.5,13.6,50,0.0,Parcialmente nublado
+2024-01-04,Guayaquil,25.6,17.5,73,1.2,Lluvia
+2024-01-04,Riobamba,21.6,9.2,44,1.6,Nublado
+2024-01-05,Ambato,17.4,9.1,62,0.0,Lluvia
+2024-01-05,Quito,29.8,9.8,58,9.2,Lluvia
+2024-01-05,Cuenca,24.9,8.9,45,0.0,Nublado
+2024-01-05,Guayaquil,26.1,15.9,73,5.1,Parcialmente nublado
+2024-01-05,Riobamba,27.3,14.9,77,0.0,Parcialmente nublado
+2024-01-06,Ambato,27.7,14.5,78,0.0,Nublado
+2024-01-06,Quito,22.9,15.0,89,0.0,Nublado
+2024-01-06,Cuenca,15.6,16.7,80,0.0,Parcialmente nublado
+2024-01-06,Guayaquil,17.0,16.6,44,0.0,Nublado
+2024-01-06,Riobamba,16.2,13.5,53,0.0,Parcialmente nublado
+2024-01-07,Ambato,23.6,10.6,63,0.0,Soleado
+2024-01-07,Quito,28.2,9.3,65,0.0,Parcialmente nublado
+2024-01-07,Cuenca,26.1,16.4,81,4.1,Lluvia
+2024-01-07,Guayaquil,27.6,17.4,80,0.0,Lluvia
+2024-01-07,Riobamba,25.7,17.4,77,0.0,Soleado
+2024-01-08,Ambato,22.2,13.5,90,7.4,Parcialmente nublado
+2024-01-08,Quito,28.8,8.6,43,0.0,Nublado
+2024-01-08,Cuenca,29.4,8.5,46,5.3,Lluvia
+2024-01-08,Guayaquil,17.3,10.1,84,0.0,Parcialmente nublado
+2024-01-08,Riobamba,21.6,16.6,82,17.9,Nublado
+2024-01-09,Ambato,19.8,9.4,85,8.7,Lluvia
+2024-01-09,Quito,15.3,15.0,58,0.0,Lluvia
+2024-01-09,Cuenca,27.0,9.9,59,0.0,Soleado
+2024-01-09,Guayaquil,21.4,10.4,85,0.0,Nublado
+2024-01-09,Riobamba,20.7,17.1,89,0.0,Nublado
+2024-01-10,Ambato,19.2,9.2,69,0.0,Nublado
+2024-01-10,Quito,18.2,16.0,49,5.8,Parcialmente nublado
+2024-01-10,Cuenca,26.4,14.4,71,0.0,Nublado
+2024-01-10,Guayaquil,20.9,13.9,70,0.0,Lluvia
+2024-01-10,Riobamba,15.3,10.2,82,0.0,Soleado
+2024-01-11,Ambato,17.1,11.5,85,0.0,Soleado
+2024-01-11,Quito,27.2,10.7,44,6.6,Parcialmente nublado
+2024-01-11,Cuenca,29.3,8.4,83,11.0,Soleado
+2024-01-11,Guayaquil,19.4,8.7,56,0.0,Lluvia
+2024-01-11,Riobamba,22.2,10.4,85,0.0,Lluvia
+2024-01-12,Ambato,24.7,10.9,63,0.0,Soleado
+2024-01-12,Quito,24.8,11.7,62,1.5,Parcialmente nublado
+2024-01-12,Cuenca,26.2,13.7,76,8.0,Nublado
+2024-01-12,Guayaquil,28.5,12.4,89,10.4,Parcialmente nublado
+2024-01-12,Riobamba,26.8,15.5,47,0.0,Soleado
+2024-01-13,Ambato,17.0,10.7,87,0.0,Parcialmente nublado
+2024-01-13,Quito,25.5,13.1,78,0.0,Lluvia
+2024-01-13,Cuenca,17.8,13.9,55,17.8,Parcialmente nublado
+2024-01-13,Guayaquil,20.0,10.2,78,0.0,Nublado
+2024-01-13,Riobamba,18.7,14.9,84,0.0,Nublado
+2024-01-14,Ambato,22.3,8.9,65,0.0,Parcialmente nublado
+2024-01-14,Quito,25.7,17.3,49,12.5,Parcialmente nublado
+2024-01-14,Cuenca,27.5,16.2,85,16.1,Soleado
+2024-01-14,Guayaquil,27.3,17.7,46,0.0,Parcialmente nublado
+2024-01-14,Riobamba,19.7,14.7,57,0.0,Nublado
+2024-01-15,Ambato,15.4,17.4,49,0.0,Nublado
+2024-01-15,Quito,22.0,11.7,48,11.7,Parcialmente nublado
+2024-01-15,Cuenca,27.0,15.0,89,0.0,Parcialmente nublado
+2024-01-15,Guayaquil,20.2,15.6,52,0.0,Lluvia
+2024-01-15,Riobamba,23.9,13.1,85,0.0,Lluvia
+2024-01-16,Ambato,16.9,13.1,68,2.8,Soleado
+2024-01-16,Quito,16.9,12.6,71,19.8,Lluvia
+2024-01-16,Cuenca,25.6,10.4,66,0.0,Nublado
+2024-01-16,Guayaquil,26.7,13.9,65,0.0,Nublado
+2024-01-16,Riobamba,20.9,10.8,82,0.0,Parcialmente nublado
+2024-01-17,Ambato,25.9,13.7,90,0.0,Lluvia
+2024-01-17,Quito,27.7,10.9,66,0.8,Soleado
+2024-01-17,Cuenca,15.9,11.7,49,0.0,Nublado
+2024-01-17,Guayaquil,21.9,10.1,40,0.0,Soleado
+2024-01-17,Riobamba,21.6,18.0,57,0.0,Lluvia
+2024-01-18,Ambato,27.0,14.7,86,0.0,Soleado
+2024-01-18,Quito,17.8,9.5,68,0.0,Lluvia
+2024-01-18,Cuenca,15.8,14.7,67,0.0,Parcialmente nublado
+2024-01-18,Guayaquil,19.6,11.2,68,17.2,Lluvia
+2024-01-18,Riobamba,23.5,8.5,80,0.0,Nublado
+2024-01-19,Ambato,21.1,10.7,67,0.0,Parcialmente nublado
+2024-01-19,Quito,23.4,10.2,69,0.0,Parcialmente nublado
+2024-01-19,Cuenca,20.6,12.2,67,0.0,Parcialmente nublado
+2024-01-19,Guayaquil,26.7,15.8,49,0.0,Lluvia
+2024-01-19,Riobamba,21.4,10.1,77,0.0,Lluvia
+2024-01-20,Ambato,25.6,8.9,56,0.0,Soleado
+2024-01-20,Quito,21.3,16.5,80,0.0,Lluvia
+2024-01-20,Cuenca,25.4,10.3,88,0.0,Nublado
+2024-01-20,Guayaquil,16.6,11.0,90,0.0,Nublado
+2024-01-20,Riobamba,21.6,17.2,74,13.5,Parcialmente nublado
+2024-01-21,Ambato,24.7,8.6,74,0.0,Parcialmente nublado
+2024-01-21,Quito,20.7,15.0,70,0.0,Nublado
+2024-01-21,Cuenca,27.6,17.3,76,0.0,Soleado
+2024-01-21,Guayaquil,15.3,15.4,85,0.0,Soleado
+2024-01-21,Riobamba,25.6,12.7,88,0.0,Parcialmente nublado
+2024-01-22,Ambato,18.4,8.1,49,0.0,Soleado
+2024-01-22,Quito,16.8,15.0,85,11.8,Lluvia
+2024-01-22,Cuenca,21.0,9.8,82,0.0,Nublado
+2024-01-22,Guayaquil,21.4,17.5,83,0.0,Nublado
+2024-01-22,Riobamba,19.4,8.1,51,0.0,Nublado
+2024-01-23,Ambato,17.1,18.0,43,0.0,Nublado
+2024-01-23,Quito,23.9,17.1,64,0.0,Parcialmente nublado
+2024-01-23,Cuenca,27.3,16.0,69,0.0,Soleado
+2024-01-23,Guayaquil,20.5,17.0,82,0.0,Lluvia
+2024-01-23,Riobamba,15.7,14.8,82,10.4,Nublado
+2024-01-24,Ambato,19.3,16.4,65,17.8,Nublado
+2024-01-24,Quito,23.1,13.2,70,2.9,Parcialmente nublado
+2024-01-24,Cuenca,18.5,13.9,68,0.0,Nublado
+2024-01-24,Guayaquil,16.0,14.2,83,0.0,Soleado
+2024-01-24,Riobamba,15.5,13.0,72,0.0,Soleado
+2024-01-25,Ambato,16.5,14.6,48,16.4,Soleado
+2024-01-25,Quito,26.8,15.0,82,0.0,Lluvia
+2024-01-25,Cuenca,27.4,11.8,87,0.0,Soleado
+2024-01-25,Guayaquil,16.0,13.7,79,0.0,Soleado
+2024-01-25,Riobamba,16.1,16.9,86,0.0,Soleado
+2024-01-26,Ambato,18.8,15.2,57,11.3,Soleado
+2024-01-26,Quito,21.4,8.2,88,6.9,Soleado
+2024-01-26,Cuenca,20.9,17.4,85,16.7,Lluvia
+2024-01-26,Guayaquil,19.5,15.2,45,13.1,Lluvia
+2024-01-26,Riobamba,19.0,9.4,67,0.0,Lluvia
+2024-01-27,Ambato,20.6,15.3,78,0.0,Lluvia
+2024-01-27,Quito,25.5,11.0,52,0.0,Soleado
+2024-01-27,Cuenca,16.3,14.8,57,11.8,Soleado
+2024-01-27,Guayaquil,16.7,14.1,68,0.0,Lluvia
+2024-01-27,Riobamba,24.3,8.7,59,8.6,Parcialmente nublado
+2024-01-28,Ambato,19.4,9.8,59,2.6,Soleado
+2024-01-28,Quito,27.0,11.1,81,0.0,Lluvia
+2024-01-28,Cuenca,27.9,12.9,66,0.0,Lluvia
+2024-01-28,Guayaquil,21.7,14.4,55,3.8,Parcialmente nublado
+2024-01-28,Riobamba,26.6,9.4,63,0.0,Parcialmente nublado
+2024-01-29,Ambato,27.3,15.0,71,0.0,Soleado
+2024-01-29,Quito,29.8,14.7,80,0.0,Nublado
+2024-01-29,Cuenca,17.9,8.9,73,12.6,Lluvia
+2024-01-29,Guayaquil,19.1,10.3,47,0.0,Parcialmente nublado
+2024-01-29,Riobamba,26.8,13.3,81,12.3,Parcialmente nublado
+2024-01-30,Ambato,28.6,16.2,70,0.0,Soleado
+2024-01-30,Quito,16.8,10.9,63,0.0,Nublado
+2024-01-30,Cuenca,28.1,11.4,59,0.0,Nublado
+2024-01-30,Guayaquil,22.8,8.3,80,0.0,Lluvia
+2024-01-30,Riobamba,28.9,15.1,78,0.0,Parcialmente nublado
+2024-01-31,Ambato,21.0,11.1,48,3.9,Lluvia
+2024-01-31,Quito,16.0,16.1,89,0.0,Parcialmente nublado
+2024-01-31,Cuenca,15.8,12.2,86,0.0,Parcialmente nublado
+2024-01-31,Guayaquil,16.1,16.2,74,0.0,Nublado
+2024-01-31,Riobamba,20.7,8.7,53,3.7,Nublado
+2024-02-01,Ambato,24.3,17.3,86,8.3,Soleado
+2024-02-01,Quito,17.2,16.1,77,0.0,Soleado
+2024-02-01,Cuenca,24.7,11.2,54,3.3,Soleado
+2024-02-01,Guayaquil,20.3,11.7,74,15.2,Nublado
+2024-02-01,Riobamba,28.4,15.4,40,0.0,Soleado
+2024-02-02,Ambato,27.4,11.7,61,14.9,Parcialmente nublado
+2024-02-02,Quito,29.8,17.5,61,1.5,Parcialmente nublado
+2024-02-02,Cuenca,17.5,16.8,89,0.0,Nublado
+2024-02-02,Guayaquil,23.7,15.7,75,5.2,Parcialmente nublado
+2024-02-02,Riobamba,29.2,10.4,57,0.0,Lluvia
+2024-02-03,Ambato,20.1,16.4,51,0.0,Soleado
+2024-02-03,Quito,24.7,9.1,45,0.0,Soleado
+2024-02-03,Cuenca,17.3,8.5,84,0.0,Nublado
+2024-02-03,Guayaquil,21.5,8.8,47,0.0,Lluvia
+2024-02-03,Riobamba,23.6,8.8,49,0.0,Nublado
+2024-02-04,Ambato,21.7,12.5,54,16.6,Lluvia
+2024-02-04,Quito,19.5,9.2,64,0.0,Soleado
+2024-02-04,Cuenca,22.8,8.9,90,4.6,Lluvia
+2024-02-04,Guayaquil,21.6,9.0,79,0.0,Nublado
+2024-02-04,Riobamba,21.4,16.7,49,0.0,Parcialmente nublado
+2024-02-05,Ambato,18.6,12.7,72,0.0,Soleado
+2024-02-05,Quito,22.0,9.9,90,15.0,Soleado
+2024-02-05,Cuenca,22.7,17.3,66,18.1,Lluvia
+2024-02-05,Guayaquil,26.0,12.9,81,19.5,Lluvia
+2024-02-05,Riobamba,18.5,14.6,43,0.0,Soleado
+2024-02-06,Ambato,24.5,8.4,63,0.0,Lluvia
+2024-02-06,Quito,25.2,16.4,66,0.0,Parcialmente nublado
+2024-02-06,Cuenca,23.3,12.8,81,0.0,Parcialmente nublado
+2024-02-06,Guayaquil,20.0,14.0,71,0.0,Parcialmente nublado
+2024-02-06,Riobamba,28.9,12.1,63,0.0,Nublado
+2024-02-07,Ambato,22.7,12.8,48,0.0,Nublado
+2024-02-07,Quito,17.1,13.9,65,13.1,Soleado
+2024-02-07,Cuenca,15.2,12.6,76,0.0,Lluvia
+2024-02-07,Guayaquil,25.6,14.8,56,0.0,Nublado
+2024-02-07,Riobamba,28.5,10.0,80,0.0,Soleado
+2024-02-08,Ambato,29.4,8.3,43,0.0,Lluvia
+2024-02-08,Quito,18.8,17.1,66,13.9,Lluvia
+2024-02-08,Cuenca,25.8,14.2,61,2.3,Nublado
+2024-02-08,Guayaquil,18.5,15.8,82,0.0,Parcialmente nublado
+2024-02-08,Riobamba,21.2,9.6,61,0.0,Soleado
+2024-02-09,Ambato,24.5,15.8,54,2.6,Soleado
+2024-02-09,Quito,20.8,17.8,50,0.0,Soleado
+2024-02-09,Cuenca,20.2,11.0,79,0.0,Nublado
+2024-02-09,Guayaquil,19.0,14.3,45,0.0,Soleado
+2024-02-09,Riobamba,16.5,11.1,45,14.3,Lluvia
+2024-02-10,Ambato,20.4,13.3,62,0.0,Parcialmente nublado
+2024-02-10,Quito,28.8,11.1,56,0.0,Parcialmente nublado
+2024-02-10,Cuenca,18.9,12.2,51,0.0,Lluvia
+2024-02-10,Guayaquil,20.6,15.4,47,0.0,Lluvia
+2024-02-10,Riobamba,18.4,15.7,69,0.0,Lluvia
+2024-02-11,Ambato,24.3,10.1,49,0.6,Lluvia
+2024-02-11,Quito,23.4,13.5,60,0.0,Nublado
+2024-02-11,Cuenca,26.5,11.6,61,0.0,Lluvia
+2024-02-11,Guayaquil,21.3,11.2,69,0.0,Soleado
+2024-02-11,Riobamba,24.6,8.9,84,16.5,Nublado
+2024-02-12,Ambato,22.3,13.8,60,0.0,Lluvia
+2024-02-12,Quito,25.3,17.4,76,7.6,Nublado
+2024-02-12,Cuenca,20.7,8.5,83,0.0,Parcialmente nublado
+2024-02-12,Guayaquil,16.5,11.3,89,0.0,Parcialmente nublado
+2024-02-12,Riobamba,15.5,10.9,56,0.0,Soleado
+2024-02-13,Ambato,26.8,14.4,84,0.0,Parcialmente nublado
+2024-02-13,Quito,26.9,10.6,53,0.0,Soleado
+2024-02-13,Cuenca,29.2,9.8,56,10.6,Lluvia
+2024-02-13,Guayaquil,18.5,17.5,46,0.0,Nublado
+2024-02-13,Riobamba,18.7,12.7,87,2.0,Soleado
+2024-02-14,Ambato,24.1,13.8,76,0.0,Soleado
+2024-02-14,Quito,15.8,15.0,55,11.6,Parcialmente nublado
+2024-02-14,Cuenca,15.1,12.4,47,16.7,Lluvia
+2024-02-14,Guayaquil,16.6,10.0,46,0.0,Soleado
+2024-02-14,Riobamba,22.8,9.4,49,0.0,Nublado
+2024-02-15,Ambato,23.3,10.5,62,0.0,Nublado
+2024-02-15,Quito,17.6,8.8,71,0.0,Soleado
+2024-02-15,Cuenca,23.1,10.5,42,0.6,Lluvia
+2024-02-15,Guayaquil,19.0,16.8,66,0.0,Nublado
+2024-02-15,Riobamba,24.4,13.7,84,0.1,Soleado
+2024-02-16,Ambato,23.0,11.0,84,0.0,Parcialmente nublado
+2024-02-16,Quito,18.5,9.4,47,0.0,Soleado
+2024-02-16,Cuenca,19.0,10.3,41,0.0,Parcialmente nublado
+2024-02-16,Guayaquil,26.2,11.0,64,0.0,Lluvia
+2024-02-16,Riobamba,29.2,13.9,82,0.0,Nublado
+2024-02-17,Ambato,28.7,12.3,87,0.0,Nublado
+2024-02-17,Quito,16.8,16.9,74,0.0,Parcialmente nublado
+2024-02-17,Cuenca,18.5,15.4,59,13.7,Parcialmente nublado
+2024-02-17,Guayaquil,15.3,16.4,44,0.0,Lluvia
+2024-02-17,Riobamba,26.2,15.2,42,0.0,Nublado
+2024-02-18,Ambato,27.3,12.6,80,0.0,Soleado
+2024-02-18,Quito,23.3,10.1,43,0.0,Lluvia
+2024-02-18,Cuenca,28.9,8.3,44,0.0,Lluvia
+2024-02-18,Guayaquil,28.1,15.1,58,6.2,Soleado
+2024-02-18,Riobamba,17.2,14.4,89,0.0,Nublado
+2024-02-19,Ambato,15.6,16.3,86,0.0,Nublado
+2024-02-19,Quito,21.3,12.4,82,0.0,Lluvia
+2024-02-19,Cuenca,27.9,10.4,42,17.7,Soleado
+2024-02-19,Guayaquil,27.5,8.6,85,0.0,Nublado
+2024-02-19,Riobamba,26.5,12.4,79,18.5,Nublado
+2024-02-20,Ambato,27.3,15.2,61,0.0,Lluvia
+2024-02-20,Quito,15.2,13.1,64,0.0,Soleado
+2024-02-20,Cuenca,26.7,13.5,82,0.0,Nublado
+2024-02-20,Guayaquil,20.4,16.6,51,0.0,Soleado
+2024-02-20,Riobamba,16.9,14.6,68,9.9,Nublado
+2024-02-21,Ambato,20.7,8.5,59,0.0,Lluvia
+2024-02-21,Quito,23.0,13.0,46,0.0,Nublado
+2024-02-21,Cuenca,25.7,8.2,54,0.0,Lluvia
+2024-02-21,Guayaquil,24.8,17.5,65,13.4,Nublado
+2024-02-21,Riobamba,18.6,15.9,55,8.3,Parcialmente nublado
+2024-02-22,Ambato,18.1,9.9,50,19.4,Soleado
+2024-02-22,Quito,26.6,9.2,61,8.7,Soleado
+2024-02-22,Cuenca,23.1,10.1,61,0.0,Soleado
+2024-02-22,Guayaquil,15.9,12.0,52,0.0,Nublado
+2024-02-22,Riobamba,16.0,14.1,89,0.0,Nublado
+2024-02-23,Ambato,16.6,17.5,86,0.0,Soleado
+2024-02-23,Quito,26.0,16.6,84,9.6,Parcialmente nublado
+2024-02-23,Cuenca,20.6,17.2,46,11.7,Lluvia
+2024-02-23,Guayaquil,20.9,16.7,48,17.7,Soleado
+2024-02-23,Riobamba,18.1,9.1,57,6.9,Parcialmente nublado
+2024-02-24,Ambato,21.9,11.4,67,0.0,Parcialmente nublado
+2024-02-24,Quito,17.1,15.2,66,6.0,Soleado
+2024-02-24,Cuenca,17.0,11.9,49,0.0,Parcialmente nublado
+2024-02-24,Guayaquil,21.7,14.4,59,0.0,Nublado
+2024-02-24,Riobamba,16.0,17.1,61,0.0,Parcialmente nublado
+2024-02-25,Ambato,15.2,11.6,64,0.0,Soleado
+2024-02-25,Quito,28.5,14.2,44,19.6,Parcialmente nublado
+2024-02-25,Cuenca,20.4,17.4,49,0.0,Soleado
+2024-02-25,Guayaquil,15.9,16.3,49,0.0,Parcialmente nublado
+2024-02-25,Riobamba,21.1,13.0,89,18.0,Nublado
+2024-02-26,Ambato,21.8,17.3,80,0.0,Soleado
+2024-02-26,Quito,20.6,10.7,40,0.0,Soleado
+2024-02-26,Cuenca,20.2,12.6,61,0.0,Parcialmente nublado
+2024-02-26,Guayaquil,28.2,16.2,83,0.0,Parcialmente nublado
+2024-02-26,Riobamba,19.3,11.3,83,0.0,Parcialmente nublado
+2024-02-27,Ambato,22.0,17.5,68,0.0,Nublado
+2024-02-27,Quito,18.6,12.8,59,0.0,Lluvia
+2024-02-27,Cuenca,16.5,16.3,57,0.0,Nublado
+2024-02-27,Guayaquil,29.0,9.5,56,0.0,Soleado
+2024-02-27,Riobamba,17.6,9.9,89,0.0,Nublado
+2024-02-28,Ambato,27.1,10.3,87,0.0,Nublado
+2024-02-28,Quito,25.8,17.8,82,0.0,Lluvia
+2024-02-28,Cuenca,18.2,10.4,72,17.4,Soleado
+2024-02-28,Guayaquil,15.9,10.6,68,0.0,Lluvia
+2024-02-28,Riobamba,29.0,11.9,53,0.0,Lluvia
+2024-02-29,Ambato,28.1,12.7,49,0.0,Lluvia
+2024-02-29,Quito,23.2,12.2,45,17.7,Soleado
+2024-02-29,Cuenca,15.9,15.1,43,0.0,Nublado
+2024-02-29,Guayaquil,18.8,15.6,76,0.0,Parcialmente nublado
+2024-02-29,Riobamba,27.4,12.8,78,15.0,Lluvia
+2024-03-01,Ambato,28.3,16.7,41,0.0,Lluvia
+2024-03-01,Quito,24.9,9.5,54,0.0,Lluvia
+2024-03-01,Cuenca,17.7,12.7,46,9.5,Lluvia
+2024-03-01,Guayaquil,15.2,10.6,64,0.0,Nublado
+2024-03-01,Riobamba,17.9,14.2,66,0.0,Lluvia
+2024-03-02,Ambato,28.1,8.1,87,14.5,Lluvia
+2024-03-02,Quito,23.6,13.4,56,4.0,Soleado
+2024-03-02,Cuenca,25.3,14.8,60,0.0,Soleado
+2024-03-02,Guayaquil,17.5,17.9,72,0.0,Soleado
+2024-03-02,Riobamba,25.0,14.5,87,0.0,Parcialmente nublado
+2024-03-03,Ambato,21.1,13.2,87,0.0,Nublado
+2024-03-03,Quito,16.5,8.4,80,0.0,Parcialmente nublado
+2024-03-03,Cuenca,25.9,11.3,67,0.0,Parcialmente nublado
+2024-03-03,Guayaquil,28.8,12.3,66,11.1,Soleado
+2024-03-03,Riobamba,18.1,16.0,49,3.4,Soleado
+2024-03-04,Ambato,26.4,8.4,87,0.0,Lluvia
+2024-03-04,Quito,17.5,17.5,47,1.3,Parcialmente nublado
+2024-03-04,Cuenca,21.3,13.7,46,0.0,Parcialmente nublado
+2024-03-04,Guayaquil,16.8,14.3,85,0.0,Lluvia
+2024-03-04,Riobamba,28.2,10.3,79,0.0,Lluvia
+2024-03-05,Ambato,16.9,8.4,73,0.0,Lluvia
+2024-03-05,Quito,29.4,11.4,85,9.7,Soleado
+2024-03-05,Cuenca,18.6,9.3,69,17.5,Lluvia
+2024-03-05,Guayaquil,21.4,10.4,54,6.4,Parcialmente nublado
+2024-03-05,Riobamba,16.3,9.0,69,9.3,Soleado
+2024-03-06,Ambato,27.8,9.2,48,16.2,Parcialmente nublado
+2024-03-06,Quito,17.5,17.8,46,0.0,Parcialmente nublado
+2024-03-06,Cuenca,17.8,17.8,44,2.0,Parcialmente nublado
+2024-03-06,Guayaquil,19.2,12.6,90,0.0,Lluvia
+2024-03-06,Riobamba,15.3,9.4,47,0.0,Soleado
+2024-03-07,Ambato,15.9,17.0,69,0.0,Soleado
+2024-03-07,Quito,19.8,9.0,82,0.0,Lluvia
+2024-03-07,Cuenca,15.7,10.7,70,0.6,Parcialmente nublado
+2024-03-07,Guayaquil,16.2,9.5,56,13.3,Soleado
+2024-03-07,Riobamba,22.0,8.5,47,0.0,Parcialmente nublado
+2024-03-08,Ambato,20.1,15.1,59,0.0,Parcialmente nublado
+2024-03-08,Quito,27.1,10.3,58,0.0,Lluvia
+2024-03-08,Cuenca,20.2,15.5,40,0.0,Soleado
+2024-03-08,Guayaquil,16.1,13.8,85,0.0,Parcialmente nublado
+2024-03-08,Riobamba,23.4,9.8,81,5.5,Nublado
+2024-03-09,Ambato,25.1,16.0,79,0.0,Nublado
+2024-03-09,Quito,15.5,12.5,53,0.0,Soleado
+2024-03-09,Cuenca,20.4,12.9,55,17.3,Lluvia
+2024-03-09,Guayaquil,19.0,14.9,45,7.3,Lluvia
+2024-03-09,Riobamba,23.8,15.9,83,0.0,Nublado
+2024-03-10,Ambato,25.1,9.0,41,0.0,Soleado
+2024-03-10,Quito,26.5,11.0,53,14.3,Soleado
+2024-03-10,Cuenca,22.1,11.3,48,0.0,Nublado
+2024-03-10,Guayaquil,28.4,12.1,75,0.0,Nublado
+2024-03-10,Riobamba,23.3,16.4,83,0.0,Lluvia
+2024-03-11,Ambato,28.2,9.5,42,11.5,Nublado
+2024-03-11,Quito,27.1,14.2,88,0.0,Soleado
+2024-03-11,Cuenca,29.5,18.0,63,0.0,Parcialmente nublado
+2024-03-11,Guayaquil,24.5,13.6,61,0.0,Parcialmente nublado
+2024-03-11,Riobamba,29.3,16.9,79,0.0,Nublado
+2024-03-12,Ambato,19.8,16.1,88,16.1,Soleado
+2024-03-12,Quito,28.8,10.8,63,0.0,Nublado
+2024-03-12,Cuenca,27.9,11.5,76,0.0,Nublado
+2024-03-12,Guayaquil,24.1,14.9,63,0.0,Parcialmente nublado
+2024-03-12,Riobamba,24.3,15.2,77,0.0,Lluvia
+2024-03-13,Ambato,15.0,13.4,62,17.1,Soleado
+2024-03-13,Quito,23.3,8.9,51,14.0,Lluvia
+2024-03-13,Cuenca,24.1,15.2,73,0.0,Nublado
+2024-03-13,Guayaquil,15.4,9.1,83,0.0,Soleado
+2024-03-13,Riobamba,26.6,10.9,87,0.0,Parcialmente nublado
+2024-03-14,Ambato,24.9,13.7,78,9.1,Soleado
+2024-03-14,Quito,15.9,14.5,90,0.0,Soleado
+2024-03-14,Cuenca,22.1,16.2,48,0.0,Parcialmente nublado
+2024-03-14,Guayaquil,18.6,14.3,85,7.9,Nublado
+2024-03-14,Riobamba,23.0,12.5,56,12.9,Nublado
+2024-03-15,Ambato,15.4,10.0,70,0.0,Parcialmente nublado
+2024-03-15,Quito,23.7,8.2,61,0.0,Soleado
+2024-03-15,Cuenca,21.8,8.5,52,0.1,Lluvia
+2024-03-15,Guayaquil,15.9,17.6,69,0.0,Parcialmente nublado
+2024-03-15,Riobamba,17.5,8.5,59,6.1,Nublado
+2024-03-16,Ambato,25.4,15.5,72,0.0,Nublado
+2024-03-16,Quito,18.1,14.8,75,17.8,Soleado
+2024-03-16,Cuenca,24.4,12.1,68,0.0,Parcialmente nublado
+2024-03-16,Guayaquil,22.3,9.0,49,0.0,Nublado
+2024-03-16,Riobamba,24.0,13.5,55,0.0,Lluvia
+2024-03-17,Ambato,27.0,10.9,87,0.0,Soleado
+2024-03-17,Quito,26.7,16.5,70,0.0,Parcialmente nublado
+2024-03-17,Cuenca,21.3,9.5,53,7.3,Lluvia
+2024-03-17,Guayaquil,29.9,16.8,44,0.0,Nublado
+2024-03-17,Riobamba,26.9,13.2,66,12.4,Soleado
+2024-03-18,Ambato,23.2,14.7,40,0.4,Parcialmente nublado
+2024-03-18,Quito,28.9,16.6,56,3.9,Parcialmente nublado
+2024-03-18,Cuenca,25.4,11.7,50,0.0,Parcialmente nublado
+2024-03-18,Guayaquil,24.6,8.7,47,0.0,Nublado
+2024-03-18,Riobamba,22.4,14.7,66,0.0,Lluvia
+2024-03-19,Ambato,24.7,17.3,84,0.0,Soleado
+2024-03-19,Quito,27.0,9.8,87,0.0,Lluvia
+2024-03-19,Cuenca,15.0,9.0,51,9.1,Soleado
+2024-03-19,Guayaquil,17.3,16.0,44,7.4,Parcialmente nublado
+2024-03-19,Riobamba,17.6,13.0,59,0.0,Soleado
+2024-03-20,Ambato,15.5,16.4,77,0.0,Soleado
+2024-03-20,Quito,20.2,13.7,88,2.4,Lluvia
+2024-03-20,Cuenca,16.8,13.8,49,0.0,Lluvia
+2024-03-20,Guayaquil,23.6,9.9,48,0.0,Lluvia
+2024-03-20,Riobamba,18.6,12.7,41,0.0,Soleado
+2024-03-21,Ambato,16.6,13.0,83,0.4,Nublado
+2024-03-21,Quito,19.6,17.2,83,0.0,Parcialmente nublado
+2024-03-21,Cuenca,19.3,8.4,50,0.0,Nublado
+2024-03-21,Guayaquil,22.5,8.1,82,6.8,Lluvia
+2024-03-21,Riobamba,15.8,8.9,68,0.0,Parcialmente nublado
+2024-03-22,Ambato,26.4,9.2,43,0.0,Parcialmente nublado
+2024-03-22,Quito,23.8,15.8,50,0.0,Soleado
+2024-03-22,Cuenca,27.6,8.0,80,0.0,Parcialmente nublado
+2024-03-22,Guayaquil,20.7,16.6,46,0.0,Parcialmente nublado
+2024-03-22,Riobamba,26.2,12.5,57,0.0,Soleado
+2024-03-23,Ambato,16.1,13.2,87,0.0,Parcialmente nublado
+2024-03-23,Quito,21.5,10.4,82,0.0,Lluvia
+2024-03-23,Cuenca,16.9,10.4,45,0.0,Soleado
+2024-03-23,Guayaquil,16.5,8.0,60,11.4,Nublado
+2024-03-23,Riobamba,17.8,8.6,61,0.0,Nublado
+2024-03-24,Ambato,18.0,10.0,78,0.0,Soleado
+2024-03-24,Quito,28.6,14.5,70,19.7,Nublado
+2024-03-24,Cuenca,24.4,12.8,42,0.0,Soleado
+2024-03-24,Guayaquil,20.2,12.2,76,0.0,Soleado
+2024-03-24,Riobamba,28.1,14.6,51,0.0,Lluvia
+2024-03-25,Ambato,24.4,10.7,90,0.0,Nublado
+2024-03-25,Quito,27.6,14.8,60,0.0,Soleado
+2024-03-25,Cuenca,17.1,11.2,80,0.0,Nublado
+2024-03-25,Guayaquil,26.6,12.0,54,13.6,Nublado
+2024-03-25,Riobamba,27.6,15.4,53,0.0,Lluvia
+2024-03-26,Ambato,23.3,16.0,78,0.0,Parcialmente nublado
+2024-03-26,Quito,16.8,13.3,48,0.0,Parcialmente nublado
+2024-03-26,Cuenca,25.6,13.5,79,0.0,Soleado
+2024-03-26,Guayaquil,22.3,16.8,65,0.0,Soleado
+2024-03-26,Riobamba,27.3,16.5,71,2.6,Lluvia
+2024-03-27,Ambato,15.1,10.3,85,0.0,Soleado
+2024-03-27,Quito,26.8,9.7,58,1.5,Parcialmente nublado
+2024-03-27,Cuenca,24.6,17.6,60,0.0,Nublado
+2024-03-27,Guayaquil,28.1,9.6,89,0.0,Lluvia
+2024-03-27,Riobamba,24.8,13.0,75,0.0,Soleado
+2024-03-28,Ambato,16.3,14.1,50,0.0,Parcialmente nublado
+2024-03-28,Quito,27.2,15.8,88,18.1,Lluvia
+2024-03-28,Cuenca,17.5,10.3,69,18.8,Soleado
+2024-03-28,Guayaquil,24.6,15.0,41,0.0,Nublado
+2024-03-28,Riobamba,22.0,15.5,61,6.4,Parcialmente nublado
+2024-03-29,Ambato,26.7,9.9,68,0.0,Soleado
+2024-03-29,Quito,26.8,13.6,42,0.0,Lluvia
+2024-03-29,Cuenca,19.8,10.5,56,6.5,Soleado
+2024-03-29,Guayaquil,17.5,14.1,90,0.0,Parcialmente nublado
+2024-03-29,Riobamba,15.4,14.8,69,15.4,Nublado
+2024-03-30,Ambato,25.5,16.3,42,0.0,Parcialmente nublado
+2024-03-30,Quito,23.8,9.3,70,0.0,Soleado
+2024-03-30,Cuenca,23.7,12.9,62,0.7,Soleado
+2024-03-30,Guayaquil,21.1,13.3,64,12.0,Nublado
+2024-03-30,Riobamba,25.1,17.4,65,0.0,Lluvia
+2024-03-31,Ambato,21.9,10.6,46,18.0,Soleado
+2024-03-31,Quito,25.7,15.3,52,0.0,Nublado
+2024-03-31,Cuenca,22.6,9.5,61,0.0,Nublado
+2024-03-31,Guayaquil,29.6,11.7,41,13.7,Lluvia
+2024-03-31,Riobamba,28.2,8.6,80,3.3,Nublado
+2024-04-01,Ambato,17.8,17.0,43,3.1,Parcialmente nublado
+2024-04-01,Quito,17.7,13.7,64,0.0,Lluvia
+2024-04-01,Cuenca,24.1,8.9,90,0.0,Parcialmente nublado
+2024-04-01,Guayaquil,24.0,9.3,56,0.0,Parcialmente nublado
+2024-04-01,Riobamba,23.0,16.1,79,11.5,Nublado
+2024-04-02,Ambato,29.7,16.6,48,0.0,Lluvia
+2024-04-02,Quito,15.4,16.8,83,0.0,Soleado
+2024-04-02,Cuenca,25.2,16.3,79,5.5,Lluvia
+2024-04-02,Guayaquil,26.3,13.5,71,0.0,Parcialmente nublado
+2024-04-02,Riobamba,18.8,15.5,47,0.0,Nublado
+2024-04-03,Ambato,26.7,11.3,49,6.0,Soleado
+2024-04-03,Quito,18.4,16.8,63,4.7,Nublado
+2024-04-03,Cuenca,19.7,15.7,49,0.0,Soleado
+2024-04-03,Guayaquil,25.6,14.0,46,16.7,Soleado
+2024-04-03,Riobamba,22.7,14.7,71,3.1,Lluvia
+2024-04-04,Ambato,16.2,17.3,73,0.0,Soleado
+2024-04-04,Quito,22.0,9.0,85,0.0,Lluvia
+2024-04-04,Cuenca,22.2,10.0,64,14.0,Lluvia
+2024-04-04,Guayaquil,27.4,10.1,76,0.0,Nublado
+2024-04-04,Riobamba,15.4,17.4,69,9.2,Lluvia
+2024-04-05,Ambato,28.4,9.4,53,0.0,Lluvia
+2024-04-05,Quito,18.6,8.3,84,9.0,Parcialmente nublado
+2024-04-05,Cuenca,20.5,17.6,62,0.0,Parcialmente nublado
+2024-04-05,Guayaquil,24.6,12.4,63,16.6,Parcialmente nublado
+2024-04-05,Riobamba,26.2,17.4,80,0.0,Soleado
+2024-04-06,Ambato,29.8,9.7,73,0.0,Soleado
+2024-04-06,Quito,29.4,9.9,48,0.0,Nublado
+2024-04-06,Cuenca,19.7,10.8,71,0.0,Nublado
+2024-04-06,Guayaquil,29.3,11.1,78,0.0,Lluvia
+2024-04-06,Riobamba,21.7,16.0,82,0.0,Parcialmente nublado
+2024-04-07,Ambato,20.8,17.7,90,4.8,Nublado
+2024-04-07,Quito,22.8,9.2,48,0.0,Lluvia
+2024-04-07,Cuenca,21.8,9.6,80,0.0,Nublado
+2024-04-07,Guayaquil,27.2,15.2,67,0.0,Parcialmente nublado
+2024-04-07,Riobamba,29.3,13.0,42,0.0,Nublado
+2024-04-08,Ambato,19.6,17.1,61,0.0,Lluvia
+2024-04-08,Quito,27.1,10.4,73,15.2,Parcialmente nublado
+2024-04-08,Cuenca,23.0,18.0,54,0.0,Soleado
+2024-04-08,Guayaquil,25.6,8.9,89,0.0,Nublado
+2024-04-08,Riobamba,27.0,14.0,63,3.0,Soleado
+2024-04-09,Ambato,19.7,13.2,85,0.0,Parcialmente nublado
+2024-04-09,Quito,15.2,9.2,40,0.0,Parcialmente nublado
+2024-04-09,Cuenca,16.2,17.0,50,0.0,Lluvia
+2024-04-09,Guayaquil,21.0,16.5,88,0.0,Parcialmente nublado
+2024-04-09,Riobamba,17.5,15.5,74,0.0,Soleado
+2024-04-10,Ambato,22.6,15.9,82,14.7,Soleado
+2024-04-10,Quito,18.4,15.2,47,0.0,Nublado
+2024-04-10,Cuenca,22.9,11.9,69,0.0,Lluvia
+2024-04-10,Guayaquil,25.6,11.9,86,0.0,Lluvia
+2024-04-10,Riobamba,28.7,8.7,51,0.0,Nublado
+2024-04-11,Ambato,25.6,17.9,62,6.7,Lluvia
+2024-04-11,Quito,17.7,9.5,88,0.0,Nublado
+2024-04-11,Cuenca,29.3,14.6,55,0.0,Soleado
+2024-04-11,Guayaquil,22.8,16.9,83,0.0,Soleado
+2024-04-11,Riobamba,20.6,15.4,52,6.4,Nublado
+2024-04-12,Ambato,25.6,12.5,74,0.0,Lluvia
+2024-04-12,Quito,26.6,9.1,88,0.0,Lluvia
+2024-04-12,Cuenca,20.2,14.2,68,0.0,Lluvia
+2024-04-12,Guayaquil,24.2,9.9,83,0.0,Lluvia
+2024-04-12,Riobamba,19.3,15.0,88,0.0,Soleado
+2024-04-13,Ambato,18.2,14.6,57,0.0,Parcialmente nublado
+2024-04-13,Quito,17.2,14.5,84,0.0,Soleado
+2024-04-13,Cuenca,23.3,16.1,65,9.9,Soleado
+2024-04-13,Guayaquil,26.0,10.8,67,0.0,Nublado
+2024-04-13,Riobamba,19.7,11.7,40,0.0,Parcialmente nublado
+2024-04-14,Ambato,16.4,13.9,52,0.0,Parcialmente nublado
+2024-04-14,Quito,25.4,14.1,62,5.7,Soleado
+2024-04-14,Cuenca,16.9,11.7,40,0.0,Nublado
+2024-04-14,Guayaquil,19.9,9.8,87,0.0,Soleado
+2024-04-14,Riobamba,27.0,11.5,58,0.0,Soleado
+2024-04-15,Ambato,29.5,15.9,67,0.0,Nublado
+2024-04-15,Quito,29.7,13.0,90,4.9,Parcialmente nublado
+2024-04-15,Cuenca,18.9,16.6,88,0.0,Soleado
+2024-04-15,Guayaquil,19.5,10.7,46,0.0,Soleado
+2024-04-15,Riobamba,20.9,8.9,77,0.0,Nublado
+2024-04-16,Ambato,28.9,13.9,83,0.0,Nublado
+2024-04-16,Quito,15.9,11.2,52,0.0,Lluvia
+2024-04-16,Cuenca,24.6,14.8,44,3.3,Soleado
+2024-04-16,Guayaquil,17.5,11.2,63,0.0,Lluvia
+2024-04-16,Riobamba,23.5,10.6,49,12.0,Lluvia
+2024-04-17,Ambato,26.9,13.7,57,14.5,Lluvia
+2024-04-17,Quito,17.8,9.2,45,0.0,Soleado
+2024-04-17,Cuenca,16.0,9.4,60,0.0,Soleado
+2024-04-17,Guayaquil,21.2,12.0,76,0.0,Soleado
+2024-04-17,Riobamba,27.6,13.1,67,17.5,Parcialmente nublado
+2024-04-18,Ambato,26.5,9.8,62,0.0,Lluvia
+2024-04-18,Quito,26.7,11.4,86,4.3,Nublado
+2024-04-18,Cuenca,20.8,8.4,81,0.0,Soleado
+2024-04-18,Guayaquil,26.3,15.6,69,0.0,Nublado
+2024-04-18,Riobamba,15.2,9.9,46,0.0,Lluvia
+2024-04-19,Ambato,23.6,16.1,54,0.0,Nublado
+2024-04-19,Quito,29.3,8.6,45,19.7,Nublado
+2024-04-19,Cuenca,26.0,10.7,73,0.0,Soleado
+2024-04-19,Guayaquil,18.1,11.2,61,0.0,Lluvia
+2024-04-19,Riobamba,18.2,12.5,67,0.0,Parcialmente nublado
+2024-04-20,Ambato,18.2,10.1,60,14.9,Soleado
+2024-04-20,Quito,20.6,14.6,70,10.3,Soleado
+2024-04-20,Cuenca,23.5,13.3,60,0.0,Soleado
+2024-04-20,Guayaquil,26.0,14.3,60,0.0,Nublado
+2024-04-20,Riobamba,22.3,11.4,44,0.0,Soleado
+2024-04-21,Ambato,25.8,14.6,54,0.0,Lluvia
+2024-04-21,Quito,21.7,15.8,73,0.0,Lluvia
+2024-04-21,Cuenca,15.9,11.6,65,7.0,Nublado
+2024-04-21,Guayaquil,21.4,16.9,76,0.9,Parcialmente nublado
+2024-04-21,Riobamba,24.7,15.4,73,0.0,Lluvia
+2024-04-22,Ambato,25.6,12.6,49,0.0,Lluvia
+2024-04-22,Quito,21.8,11.2,74,19.0,Nublado
+2024-04-22,Cuenca,23.2,12.4,41,1.7,Lluvia
+2024-04-22,Guayaquil,21.8,16.7,89,0.0,Lluvia
+2024-04-22,Riobamba,27.8,17.9,72,0.0,Nublado
+2024-04-23,Ambato,19.0,12.5,86,9.3,Lluvia
+2024-04-23,Quito,23.8,14.3,49,15.3,Parcialmente nublado
+2024-04-23,Cuenca,24.6,16.6,65,0.0,Nublado
+2024-04-23,Guayaquil,27.8,8.2,59,18.2,Soleado
+2024-04-23,Riobamba,28.8,16.3,70,10.5,Lluvia
+2024-04-24,Ambato,20.8,14.4,80,0.0,Soleado
+2024-04-24,Quito,15.2,12.2,66,2.7,Soleado
+2024-04-24,Cuenca,24.9,13.0,90,0.0,Lluvia
+2024-04-24,Guayaquil,21.6,17.3,65,0.0,Parcialmente nublado
+2024-04-24,Riobamba,28.5,9.8,55,0.0,Lluvia
+2024-04-25,Ambato,27.4,13.8,80,12.9,Parcialmente nublado
+2024-04-25,Quito,17.7,14.8,73,0.0,Soleado
+2024-04-25,Cuenca,25.8,12.4,46,0.0,Lluvia
+2024-04-25,Guayaquil,17.9,11.8,46,0.0,Parcialmente nublado
+2024-04-25,Riobamba,15.6,11.8,50,0.0,Nublado
+2024-04-26,Ambato,26.8,14.8,77,12.6,Lluvia
+2024-04-26,Quito,16.4,8.0,55,0.0,Parcialmente nublado
+2024-04-26,Cuenca,25.4,15.3,42,0.0,Nublado
+2024-04-26,Guayaquil,17.2,16.1,87,11.1,Parcialmente nublado
+2024-04-26,Riobamba,24.6,11.8,83,0.0,Nublado
+2024-04-27,Ambato,26.0,14.0,63,6.0,Parcialmente nublado
+2024-04-27,Quito,29.7,16.9,71,0.0,Lluvia
+2024-04-27,Cuenca,28.0,16.3,71,0.0,Lluvia
+2024-04-27,Guayaquil,23.6,16.8,80,0.0,Parcialmente nublado
+2024-04-27,Riobamba,25.3,10.3,74,19.2,Soleado
+2024-04-28,Ambato,18.7,11.9,71,0.0,Lluvia
+2024-04-28,Quito,16.0,11.5,55,0.0,Parcialmente nublado
+2024-04-28,Cuenca,18.5,11.3,44,0.0,Soleado
+2024-04-28,Guayaquil,20.4,15.7,84,0.0,Nublado
+2024-04-28,Riobamba,25.6,17.1,78,0.0,Lluvia
+2024-04-29,Ambato,20.7,17.4,44,0.0,Parcialmente nublado
+2024-04-29,Quito,18.1,11.2,41,5.7,Lluvia
+2024-04-29,Cuenca,29.8,12.0,75,12.5,Soleado
+2024-04-29,Guayaquil,27.7,12.2,83,0.0,Lluvia
+2024-04-29,Riobamba,22.5,13.6,62,0.0,Soleado
+2024-04-30,Ambato,26.8,16.4,57,0.0,Soleado
+2024-04-30,Quito,25.5,8.8,79,0.0,Soleado
+2024-04-30,Cuenca,24.9,16.6,57,0.0,Lluvia
+2024-04-30,Guayaquil,20.1,15.4,40,10.0,Parcialmente nublado
+2024-04-30,Riobamba,24.0,16.4,58,17.8,Lluvia
+2024-05-01,Ambato,28.0,8.6,53,0.0,Nublado
+2024-05-01,Quito,25.4,9.2,66,0.0,Soleado
+2024-05-01,Cuenca,19.4,16.9,78,18.1,Soleado
+2024-05-01,Guayaquil,22.6,14.7,64,0.0,Parcialmente nublado
+2024-05-01,Riobamba,24.5,18.0,88,0.0,Lluvia
+2024-05-02,Ambato,25.9,11.6,86,0.0,Parcialmente nublado
+2024-05-02,Quito,17.4,15.5,42,8.8,Parcialmente nublado
+2024-05-02,Cuenca,19.3,12.6,48,0.0,Nublado
+2024-05-02,Guayaquil,26.6,10.6,61,0.0,Nublado
+2024-05-02,Riobamba,22.4,13.6,68,0.0,Parcialmente nublado
+2024-05-03,Ambato,29.6,17.6,43,6.4,Lluvia
+2024-05-03,Quito,20.3,10.8,51,2.0,Soleado
+2024-05-03,Cuenca,27.8,17.9,57,0.0,Parcialmente nublado
+2024-05-03,Guayaquil,24.7,14.2,60,8.5,Soleado
+2024-05-03,Riobamba,17.3,8.2,75,0.0,Lluvia
+2024-05-04,Ambato,20.8,9.1,83,0.0,Soleado
+2024-05-04,Quito,28.9,15.8,82,0.0,Lluvia
+2024-05-04,Cuenca,26.0,14.0,54,15.1,Lluvia
+2024-05-04,Guayaquil,26.2,11.6,61,0.0,Nublado
+2024-05-04,Riobamba,26.0,15.8,60,0.0,Lluvia
+2024-05-05,Ambato,19.1,10.7,62,0.0,Soleado
+2024-05-05,Quito,20.3,11.5,84,0.0,Soleado
+2024-05-05,Cuenca,25.5,8.3,88,0.0,Nublado
+2024-05-05,Guayaquil,19.2,13.2,70,0.0,Lluvia
+2024-05-05,Riobamba,18.3,15.2,55,0.0,Parcialmente nublado
+2024-05-06,Ambato,24.4,10.6,59,9.4,Lluvia
+2024-05-06,Quito,20.8,12.7,77,15.0,Nublado
+2024-05-06,Cuenca,29.0,12.7,75,0.0,Lluvia
+2024-05-06,Guayaquil,27.0,15.6,86,0.0,Lluvia
+2024-05-06,Riobamba,22.3,9.6,66,0.0,Nublado
+2024-05-07,Ambato,29.1,12.5,42,0.0,Soleado
+2024-05-07,Quito,17.2,14.2,88,0.0,Parcialmente nublado
+2024-05-07,Cuenca,24.2,9.5,54,11.7,Soleado
+2024-05-07,Guayaquil,22.3,13.1,57,0.0,Soleado
+2024-05-07,Riobamba,20.4,13.0,76,0.0,Parcialmente nublado
+2024-05-08,Ambato,22.3,9.3,50,0.0,Lluvia
+2024-05-08,Quito,22.9,13.7,71,0.0,Nublado
+2024-05-08,Cuenca,21.3,9.3,61,0.0,Lluvia
+2024-05-08,Guayaquil,26.1,17.5,70,0.0,Parcialmente nublado
+2024-05-08,Riobamba,29.7,15.8,62,18.8,Soleado
+2024-05-09,Ambato,26.6,16.5,84,8.5,Soleado
+2024-05-09,Quito,17.3,13.7,56,15.1,Lluvia
+2024-05-09,Cuenca,21.0,17.6,61,0.0,Nublado
+2024-05-09,Guayaquil,23.9,9.5,54,0.0,Lluvia
+2024-05-09,Riobamba,22.9,11.4,85,16.8,Soleado
+2024-05-10,Ambato,19.2,16.7,89,0.0,Soleado
+2024-05-10,Quito,16.2,8.8,78,0.0,Parcialmente nublado
+2024-05-10,Cuenca,17.2,10.7,86,0.0,Nublado
+2024-05-10,Guayaquil,16.2,14.1,40,0.0,Nublado
+2024-05-10,Riobamba,25.6,13.3,86,0.0,Soleado
+2024-05-11,Ambato,27.0,12.5,76,0.0,Parcialmente nublado
+2024-05-11,Quito,26.5,9.2,57,0.0,Nublado
+2024-05-11,Cuenca,29.7,15.0,65,0.0,Soleado
+2024-05-11,Guayaquil,17.2,16.4,71,7.9,Lluvia
+2024-05-11,Riobamba,25.1,13.4,57,0.0,Lluvia
+2024-05-12,Ambato,19.3,8.8,83,0.0,Nublado
+2024-05-12,Quito,18.2,15.2,63,16.4,Nublado
+2024-05-12,Cuenca,24.8,16.3,46,9.7,Soleado
+2024-05-12,Guayaquil,20.9,16.7,43,0.0,Lluvia
+2024-05-12,Riobamba,25.5,8.6,61,0.0,Parcialmente nublado
+2024-05-13,Ambato,20.2,15.7,82,0.0,Parcialmente nublado
+2024-05-13,Quito,18.0,16.0,41,0.0,Parcialmente nublado
+2024-05-13,Cuenca,29.7,12.7,66,0.0,Lluvia
+2024-05-13,Guayaquil,27.7,15.4,83,0.0,Nublado
+2024-05-13,Riobamba,17.3,17.9,76,0.0,Nublado
+2024-05-14,Ambato,17.0,10.7,71,17.0,Parcialmente nublado
+2024-05-14,Quito,28.0,12.7,61,0.0,Lluvia
+2024-05-14,Cuenca,26.1,10.6,58,16.1,Soleado
+2024-05-14,Guayaquil,23.3,11.7,75,12.7,Soleado
+2024-05-14,Riobamba,29.0,11.3,75,0.0,Lluvia
+2024-05-15,Ambato,18.9,8.2,67,0.0,Soleado
+2024-05-15,Quito,16.3,12.5,84,18.6,Nublado
+2024-05-15,Cuenca,17.8,14.7,73,0.0,Parcialmente nublado
+2024-05-15,Guayaquil,23.7,13.9,48,0.0,Parcialmente nublado
+2024-05-15,Riobamba,28.1,12.9,42,0.0,Soleado
+2024-05-16,Ambato,23.8,8.4,41,0.0,Soleado
+2024-05-16,Quito,27.7,13.7,73,0.0,Nublado
+2024-05-16,Cuenca,26.1,12.8,59,0.0,Nublado
+2024-05-16,Guayaquil,29.9,17.9,90,0.0,Lluvia
+2024-05-16,Riobamba,24.3,11.3,84,0.0,Nublado
+2024-05-17,Ambato,23.1,17.2,59,0.0,Nublado
+2024-05-17,Quito,24.1,13.0,78,0.0,Soleado
+2024-05-17,Cuenca,22.5,12.9,76,0.0,Soleado
+2024-05-17,Guayaquil,29.9,16.0,60,0.0,Lluvia
+2024-05-17,Riobamba,29.8,17.7,78,0.0,Parcialmente nublado
+2024-05-18,Ambato,22.0,10.5,90,8.5,Nublado
+2024-05-18,Quito,15.1,16.4,59,0.0,Parcialmente nublado
+2024-05-18,Cuenca,20.1,10.0,78,19.7,Soleado
+2024-05-18,Guayaquil,27.1,8.7,87,0.0,Nublado
+2024-05-18,Riobamba,28.5,12.0,87,6.0,Lluvia
+2024-05-19,Ambato,16.4,15.9,62,0.0,Lluvia
+2024-05-19,Quito,18.3,13.4,74,0.0,Soleado
+2024-05-19,Cuenca,26.6,11.6,59,0.0,Soleado
+2024-05-19,Guayaquil,15.5,8.6,63,0.0,Parcialmente nublado
+2024-05-19,Riobamba,15.7,8.6,86,0.0,Parcialmente nublado
+2024-05-20,Ambato,18.1,16.9,45,0.0,Parcialmente nublado
+2024-05-20,Quito,26.5,17.4,67,0.0,Lluvia
+2024-05-20,Cuenca,22.5,14.9,75,0.0,Soleado
+2024-05-20,Guayaquil,20.1,14.2,55,0.0,Soleado
+2024-05-20,Riobamba,20.8,12.8,76,0.0,Nublado
+2024-05-21,Ambato,18.6,9.3,56,0.0,Lluvia
+2024-05-21,Quito,15.4,8.7,46,0.0,Lluvia
+2024-05-21,Cuenca,17.2,17.1,41,14.5,Soleado
+2024-05-21,Guayaquil,19.5,16.2,63,0.0,Lluvia
+2024-05-21,Riobamba,25.5,8.7,85,13.2,Parcialmente nublado
+2024-05-22,Ambato,16.9,15.5,82,13.4,Lluvia
+2024-05-22,Quito,17.0,10.2,75,0.0,Nublado
+2024-05-22,Cuenca,16.0,16.4,58,3.1,Lluvia
+2024-05-22,Guayaquil,24.1,17.9,88,5.8,Lluvia
+2024-05-22,Riobamba,24.5,10.1,72,6.6,Nublado
+2024-05-23,Ambato,24.1,16.9,44,0.0,Parcialmente nublado
+2024-05-23,Quito,28.7,16.9,85,0.0,Lluvia
+2024-05-23,Cuenca,23.6,13.0,83,0.0,Lluvia
+2024-05-23,Guayaquil,26.6,8.3,64,0.0,Lluvia
+2024-05-23,Riobamba,15.3,8.9,84,0.0,Parcialmente nublado
+2024-05-24,Ambato,25.9,9.5,40,0.0,Parcialmente nublado
+2024-05-24,Quito,21.7,11.0,44,0.0,Soleado
+2024-05-24,Cuenca,21.4,8.3,50,0.0,Parcialmente nublado
+2024-05-24,Guayaquil,22.8,13.2,43,0.0,Lluvia
+2024-05-24,Riobamba,26.8,10.7,65,12.1,Parcialmente nublado
+2024-05-25,Ambato,21.7,14.6,72,0.0,Soleado
+2024-05-25,Quito,28.2,10.7,79,0.0,Soleado
+2024-05-25,Cuenca,22.0,12.6,43,0.0,Parcialmente nublado
+2024-05-25,Guayaquil,23.1,10.5,56,18.9,Parcialmente nublado
+2024-05-25,Riobamba,16.0,10.6,45,2.4,Soleado
+2024-05-26,Ambato,25.9,11.5,54,0.0,Nublado
+2024-05-26,Quito,21.4,11.4,49,0.0,Parcialmente nublado
+2024-05-26,Cuenca,28.1,17.2,86,11.0,Nublado
+2024-05-26,Guayaquil,24.2,11.8,49,10.0,Soleado
+2024-05-26,Riobamba,27.2,9.4,58,16.4,Lluvia
+2024-05-27,Ambato,18.3,10.5,76,0.0,Parcialmente nublado
+2024-05-27,Quito,15.2,16.9,56,0.0,Parcialmente nublado
+2024-05-27,Cuenca,28.8,14.1,59,0.0,Soleado
+2024-05-27,Guayaquil,21.5,8.1,51,0.0,Soleado
+2024-05-27,Riobamba,18.8,10.9,50,0.0,Soleado
+2024-05-28,Ambato,23.4,14.2,68,9.3,Lluvia
+2024-05-28,Quito,27.8,15.0,46,0.0,Lluvia
+2024-05-28,Cuenca,21.0,15.4,61,15.9,Soleado
+2024-05-28,Guayaquil,27.9,9.1,49,0.0,Parcialmente nublado
+2024-05-28,Riobamba,16.7,12.5,47,11.1,Lluvia
+2024-05-29,Ambato,24.8,13.1,77,0.0,Nublado
+2024-05-29,Quito,15.6,17.6,41,0.0,Soleado
+2024-05-29,Cuenca,16.1,14.5,51,0.0,Nublado
+2024-05-29,Guayaquil,24.0,10.9,56,0.0,Nublado
+2024-05-29,Riobamba,23.8,11.8,77,0.6,Parcialmente nublado
+2024-05-30,Ambato,28.5,12.1,78,0.0,Parcialmente nublado
+2024-05-30,Quito,20.8,12.4,58,16.6,Nublado
+2024-05-30,Cuenca,29.5,15.7,43,0.0,Lluvia
+2024-05-30,Guayaquil,21.6,11.2,43,0.0,Soleado
+2024-05-30,Riobamba,19.7,12.9,72,0.0,Lluvia
+2024-05-31,Ambato,26.3,13.5,60,0.0,Lluvia
+2024-05-31,Quito,26.2,9.3,74,12.4,Lluvia
+2024-05-31,Cuenca,24.5,9.6,54,0.0,Lluvia
+2024-05-31,Guayaquil,25.8,11.1,51,14.8,Parcialmente nublado
+2024-05-31,Riobamba,18.7,17.1,51,0.0,Nublado
+2024-06-01,Ambato,29.0,14.6,80,0.0,Lluvia
+2024-06-01,Quito,21.5,9.3,79,0.0,Soleado
+2024-06-01,Cuenca,24.5,8.7,52,0.0,Lluvia
+2024-06-01,Guayaquil,24.2,8.4,83,0.0,Nublado
+2024-06-01,Riobamba,19.2,16.0,86,0.0,Nublado
+2024-06-02,Ambato,18.3,9.5,74,0.0,Soleado
+2024-06-02,Quito,29.8,10.5,88,0.0,Nublado
+2024-06-02,Cuenca,28.9,14.4,61,0.0,Nublado
+2024-06-02,Guayaquil,15.6,8.7,76,0.0,Nublado
+2024-06-02,Riobamba,18.4,13.4,59,0.0,Lluvia
+2024-06-03,Ambato,19.7,9.7,50,0.0,Soleado
+2024-06-03,Quito,15.5,13.4,85,0.0,Soleado
+2024-06-03,Cuenca,15.9,9.4,40,0.0,Soleado
+2024-06-03,Guayaquil,26.2,11.2,57,0.0,Lluvia
+2024-06-03,Riobamba,17.7,15.7,50,17.1,Lluvia
+2024-06-04,Ambato,21.6,13.6,53,0.0,Soleado
+2024-06-04,Quito,17.8,12.2,43,0.0,Parcialmente nublado
+2024-06-04,Cuenca,17.8,17.9,75,4.8,Parcialmente nublado
+2024-06-04,Guayaquil,16.3,17.7,77,0.0,Lluvia
+2024-06-04,Riobamba,30.0,17.1,48,0.0,Lluvia
+2024-06-05,Ambato,17.1,10.6,43,0.0,Soleado
+2024-06-05,Quito,27.0,10.1,67,12.3,Soleado
+2024-06-05,Cuenca,28.9,12.5,54,2.0,Parcialmente nublado
+2024-06-05,Guayaquil,17.1,14.1,73,0.0,Soleado
+2024-06-05,Riobamba,22.6,8.9,51,0.0,Lluvia
+2024-06-06,Ambato,26.5,14.0,60,0.0,Lluvia
+2024-06-06,Quito,26.3,15.0,84,0.0,Lluvia
+2024-06-06,Cuenca,22.0,8.1,66,15.9,Nublado
+2024-06-06,Guayaquil,18.0,12.1,51,0.0,Nublado
+2024-06-06,Riobamba,25.7,16.2,71,0.0,Lluvia
+2024-06-07,Ambato,16.3,13.1,81,0.0,Parcialmente nublado
+2024-06-07,Quito,27.2,17.7,84,0.0,Soleado
+2024-06-07,Cuenca,21.6,15.7,55,0.0,Lluvia
+2024-06-07,Guayaquil,18.1,17.9,76,0.0,Lluvia
+2024-06-07,Riobamba,21.2,11.6,53,17.7,Parcialmente nublado
+2024-06-08,Ambato,15.2,17.5,48,0.0,Parcialmente nublado
+2024-06-08,Quito,22.2,12.6,77,0.0,Nublado
+2024-06-08,Cuenca,16.3,14.6,68,0.0,Lluvia
+2024-06-08,Guayaquil,28.6,14.5,46,0.0,Nublado
+2024-06-08,Riobamba,23.5,14.2,53,0.0,Soleado
+2024-06-09,Ambato,20.6,13.1,47,16.6,Parcialmente nublado
+2024-06-09,Quito,24.1,17.8,41,11.5,Parcialmente nublado
+2024-06-09,Cuenca,25.8,9.7,41,0.0,Parcialmente nublado
+2024-06-09,Guayaquil,28.4,9.7,69,17.2,Soleado
+2024-06-09,Riobamba,21.6,15.9,88,0.0,Nublado
+2024-06-10,Ambato,21.4,9.9,62,0.0,Parcialmente nublado
+2024-06-10,Quito,19.9,8.4,67,0.0,Nublado
+2024-06-10,Cuenca,23.0,11.1,48,0.6,Parcialmente nublado
+2024-06-10,Guayaquil,24.5,13.1,59,0.0,Lluvia
+2024-06-10,Riobamba,16.8,12.9,66,0.0,Parcialmente nublado
+2024-06-11,Ambato,20.6,15.9,65,0.0,Lluvia
+2024-06-11,Quito,26.8,10.8,58,0.0,Soleado
+2024-06-11,Cuenca,26.1,11.9,58,12.0,Parcialmente nublado
+2024-06-11,Guayaquil,28.0,17.4,63,0.0,Soleado
+2024-06-11,Riobamba,25.3,12.7,74,11.8,Soleado
+2024-06-12,Ambato,27.8,12.5,77,0.2,Nublado
+2024-06-12,Quito,26.9,17.6,57,10.8,Parcialmente nublado
+2024-06-12,Cuenca,17.5,15.4,48,0.0,Parcialmente nublado
+2024-06-12,Guayaquil,19.8,13.8,55,0.0,Nublado
+2024-06-12,Riobamba,27.9,12.1,40,10.9,Nublado
+2024-06-13,Ambato,25.7,15.7,44,17.7,Lluvia
+2024-06-13,Quito,24.5,10.6,67,0.0,Parcialmente nublado
+2024-06-13,Cuenca,18.3,10.3,42,0.0,Parcialmente nublado
+2024-06-13,Guayaquil,22.0,15.3,56,0.0,Nublado
+2024-06-13,Riobamba,15.2,14.3,60,0.0,Nublado
+2024-06-14,Ambato,18.3,14.3,86,0.0,Nublado
+2024-06-14,Quito,29.4,15.1,85,1.1,Parcialmente nublado
+2024-06-14,Cuenca,28.2,11.7,51,0.0,Soleado
+2024-06-14,Guayaquil,18.3,10.0,76,0.0,Nublado
+2024-06-14,Riobamba,27.8,14.7,79,0.0,Lluvia
+2024-06-15,Ambato,23.9,10.9,61,0.0,Nublado
+2024-06-15,Quito,17.7,15.5,44,0.0,Soleado
+2024-06-15,Cuenca,24.4,11.3,70,0.0,Soleado
+2024-06-15,Guayaquil,24.7,11.9,89,0.0,Parcialmente nublado
+2024-06-15,Riobamba,23.3,15.5,43,4.4,Lluvia
+2024-06-16,Ambato,18.8,8.2,64,0.0,Parcialmente nublado
+2024-06-16,Quito,21.9,11.8,76,19.6,Parcialmente nublado
+2024-06-16,Cuenca,26.6,10.3,73,9.5,Nublado
+2024-06-16,Guayaquil,26.8,10.6,73,0.0,Nublado
+2024-06-16,Riobamba,16.3,13.0,57,0.0,Soleado
+2024-06-17,Ambato,19.2,17.0,55,0.0,Parcialmente nublado
+2024-06-17,Quito,25.4,14.4,52,0.0,Parcialmente nublado
+2024-06-17,Cuenca,21.8,13.2,78,0.0,Lluvia
+2024-06-17,Guayaquil,27.9,8.7,58,0.0,Soleado
+2024-06-17,Riobamba,27.4,16.7,87,0.0,Soleado
+2024-06-18,Ambato,22.0,13.9,80,0.0,Parcialmente nublado
+2024-06-18,Quito,27.5,11.9,79,0.0,Parcialmente nublado
+2024-06-18,Cuenca,21.9,12.7,70,8.1,Soleado
+2024-06-18,Guayaquil,25.3,9.8,89,3.0,Parcialmente nublado
+2024-06-18,Riobamba,24.8,9.4,61,0.0,Nublado
+2024-06-19,Ambato,16.7,12.1,77,0.0,Lluvia
+2024-06-19,Quito,24.3,16.8,53,18.3,Nublado
+2024-06-19,Cuenca,21.9,11.2,53,0.0,Soleado
+2024-06-19,Guayaquil,25.0,11.9,90,0.0,Soleado
+2024-06-19,Riobamba,15.3,13.4,80,0.0,Parcialmente nublado
+2024-06-20,Ambato,26.4,9.6,84,0.0,Parcialmente nublado
+2024-06-20,Quito,21.8,16.7,72,0.0,Parcialmente nublado
+2024-06-20,Cuenca,26.4,13.9,66,9.7,Soleado
+2024-06-20,Guayaquil,23.6,14.4,70,1.5,Parcialmente nublado
+2024-06-20,Riobamba,16.8,9.8,90,0.0,Soleado
+2024-06-21,Ambato,26.1,9.6,72,0.0,Parcialmente nublado
+2024-06-21,Quito,27.0,13.2,59,19.1,Parcialmente nublado
+2024-06-21,Cuenca,17.2,10.5,50,0.0,Lluvia
+2024-06-21,Guayaquil,26.9,14.6,48,0.0,Lluvia
+2024-06-21,Riobamba,16.0,14.1,56,10.5,Parcialmente nublado
+2024-06-22,Ambato,22.1,8.8,77,0.0,Parcialmente nublado
+2024-06-22,Quito,27.3,10.5,80,0.0,Nublado
+2024-06-22,Cuenca,21.7,11.3,56,0.0,Lluvia
+2024-06-22,Guayaquil,26.7,9.3,55,0.0,Soleado
+2024-06-22,Riobamba,29.6,9.3,48,13.1,Lluvia
+2024-06-23,Ambato,19.4,11.2,58,9.0,Soleado
+2024-06-23,Quito,18.4,10.8,41,0.0,Soleado
+2024-06-23,Cuenca,25.6,9.4,43,0.0,Soleado
+2024-06-23,Guayaquil,28.3,15.2,62,19.0,Soleado
+2024-06-23,Riobamba,16.3,17.4,45,0.0,Nublado
+2024-06-24,Ambato,20.1,13.3,78,0.0,Parcialmente nublado
+2024-06-24,Quito,17.1,16.3,74,0.0,Lluvia
+2024-06-24,Cuenca,15.3,11.7,54,0.6,Lluvia
+2024-06-24,Guayaquil,17.4,16.9,74,0.0,Lluvia
+2024-06-24,Riobamba,18.7,14.9,85,0.0,Parcialmente nublado
+2024-06-25,Ambato,29.8,16.6,52,0.0,Parcialmente nublado
+2024-06-25,Quito,19.4,14.3,53,0.0,Lluvia
+2024-06-25,Cuenca,21.9,17.2,69,0.0,Soleado
+2024-06-25,Guayaquil,25.8,13.8,50,0.0,Lluvia
+2024-06-25,Riobamba,23.3,8.4,77,0.0,Parcialmente nublado
+2024-06-26,Ambato,28.7,9.5,48,14.2,Lluvia
+2024-06-26,Quito,21.8,16.3,58,0.0,Soleado
+2024-06-26,Cuenca,29.8,11.1,69,12.8,Lluvia
+2024-06-26,Guayaquil,21.0,11.9,57,0.0,Parcialmente nublado
+2024-06-26,Riobamba,24.4,9.8,61,0.0,Parcialmente nublado
+2024-06-27,Ambato,27.9,10.2,81,1.5,Soleado
+2024-06-27,Quito,16.9,11.7,41,0.0,Nublado
+2024-06-27,Cuenca,20.8,15.8,85,3.2,Parcialmente nublado
+2024-06-27,Guayaquil,17.4,16.6,60,17.4,Lluvia
+2024-06-27,Riobamba,22.6,16.3,66,3.0,Nublado
+2024-06-28,Ambato,15.1,8.6,80,0.0,Soleado
+2024-06-28,Quito,22.3,11.8,44,0.0,Nublado
+2024-06-28,Cuenca,19.8,16.4,78,0.0,Parcialmente nublado
+2024-06-28,Guayaquil,19.8,12.4,79,0.0,Lluvia
+2024-06-28,Riobamba,27.2,15.0,81,0.0,Lluvia
+2024-06-29,Ambato,19.2,16.3,56,6.5,Nublado
+2024-06-29,Quito,25.2,12.7,76,0.0,Soleado
+2024-06-29,Cuenca,17.2,17.6,44,9.9,Nublado
+2024-06-29,Guayaquil,24.6,13.3,82,0.0,Lluvia
+2024-06-29,Riobamba,18.3,9.7,48,0.0,Lluvia
+2024-06-30,Ambato,21.5,15.3,79,0.0,Lluvia
+2024-06-30,Quito,29.5,11.0,76,0.0,Lluvia
+2024-06-30,Cuenca,22.0,10.5,56,0.0,Parcialmente nublado
+2024-06-30,Guayaquil,24.7,11.4,87,0.0,Soleado
+2024-06-30,Riobamba,25.5,15.2,70,0.0,Nublado
+2024-07-01,Ambato,21.3,14.4,85,0.0,Soleado
+2024-07-01,Quito,16.3,13.5,81,0.0,Lluvia
+2024-07-01,Cuenca,17.8,16.0,77,0.0,Nublado
+2024-07-01,Guayaquil,15.4,11.5,52,12.2,Parcialmente nublado
+2024-07-01,Riobamba,22.1,10.0,72,0.0,Parcialmente nublado
+2024-07-02,Ambato,24.0,15.1,41,7.3,Lluvia
+2024-07-02,Quito,21.2,16.8,53,0.0,Nublado
+2024-07-02,Cuenca,29.8,9.7,81,1.4,Parcialmente nublado
+2024-07-02,Guayaquil,21.3,8.0,82,19.3,Soleado
+2024-07-02,Riobamba,21.0,14.3,52,0.0,Parcialmente nublado
+2024-07-03,Ambato,20.4,9.0,85,0.0,Nublado
+2024-07-03,Quito,18.1,9.3,49,0.0,Parcialmente nublado
+2024-07-03,Cuenca,28.0,15.5,72,0.0,Soleado
+2024-07-03,Guayaquil,22.5,11.4,58,0.0,Soleado
+2024-07-03,Riobamba,16.6,14.2,66,0.0,Lluvia
+2024-07-04,Ambato,28.2,9.8,85,0.0,Nublado
+2024-07-04,Quito,18.5,15.5,73,0.0,Soleado
+2024-07-04,Cuenca,27.4,12.6,72,0.0,Parcialmente nublado
+2024-07-04,Guayaquil,18.1,9.0,52,0.0,Soleado
+2024-07-04,Riobamba,24.0,13.5,55,2.2,Soleado
+2024-07-05,Ambato,20.3,16.8,88,0.0,Lluvia
+2024-07-05,Quito,18.5,16.8,90,0.0,Lluvia
+2024-07-05,Cuenca,16.7,12.9,64,18.1,Soleado
+2024-07-05,Guayaquil,15.9,16.9,47,0.0,Soleado
+2024-07-05,Riobamba,18.7,9.3,73,0.0,Parcialmente nublado
+2024-07-06,Ambato,16.7,12.6,60,10.2,Nublado
+2024-07-06,Quito,21.5,15.2,50,0.0,Soleado
+2024-07-06,Cuenca,19.1,17.4,44,0.0,Parcialmente nublado
+2024-07-06,Guayaquil,17.9,9.1,74,0.0,Nublado
+2024-07-06,Riobamba,23.0,11.4,88,0.0,Soleado
+2024-07-07,Ambato,15.9,8.8,48,0.0,Nublado
+2024-07-07,Quito,16.7,14.5,64,11.3,Nublado
+2024-07-07,Cuenca,18.8,15.6,71,0.0,Lluvia
+2024-07-07,Guayaquil,28.6,16.1,53,0.0,Soleado
+2024-07-07,Riobamba,18.5,9.3,61,19.8,Nublado
+2024-07-08,Ambato,29.8,11.7,74,0.0,Nublado
+2024-07-08,Quito,16.8,12.6,69,0.0,Parcialmente nublado
+2024-07-08,Cuenca,22.0,8.5,62,0.0,Lluvia
+2024-07-08,Guayaquil,18.3,12.9,81,0.0,Nublado
+2024-07-08,Riobamba,28.5,13.4,57,0.0,Parcialmente nublado
+2024-07-09,Ambato,26.2,9.2,66,6.8,Lluvia
+2024-07-09,Quito,22.8,12.2,58,0.0,Lluvia
+2024-07-09,Cuenca,17.8,13.2,55,0.0,Parcialmente nublado
+2024-07-09,Guayaquil,15.1,13.5,47,0.0,Lluvia
+2024-07-09,Riobamba,26.2,13.5,40,0.0,Soleado
+2024-07-10,Ambato,25.5,8.3,53,0.0,Soleado
+2024-07-10,Quito,29.3,10.7,65,1.8,Lluvia
+2024-07-10,Cuenca,21.1,10.1,72,0.0,Soleado
+2024-07-10,Guayaquil,22.6,16.3,77,18.0,Parcialmente nublado
+2024-07-10,Riobamba,20.3,10.5,42,0.0,Lluvia
+2024-07-11,Ambato,29.1,11.4,53,0.0,Lluvia
+2024-07-11,Quito,17.9,15.2,45,0.0,Nublado
+2024-07-11,Cuenca,23.3,16.2,45,0.0,Nublado
+2024-07-11,Guayaquil,26.4,14.8,49,12.7,Parcialmente nublado
+2024-07-11,Riobamba,27.0,11.5,58,0.0,Soleado
+2024-07-12,Ambato,25.7,15.0,61,6.4,Lluvia
+2024-07-12,Quito,25.5,17.5,57,0.0,Soleado
+2024-07-12,Cuenca,20.8,12.1,59,11.9,Soleado
+2024-07-12,Guayaquil,19.9,11.0,87,0.0,Soleado
+2024-07-12,Riobamba,15.5,14.8,73,0.0,Parcialmente nublado
+2024-07-13,Ambato,15.9,11.8,63,0.0,Soleado
+2024-07-13,Quito,23.8,15.7,57,0.0,Nublado
+2024-07-13,Cuenca,22.7,17.8,77,0.0,Parcialmente nublado
+2024-07-13,Guayaquil,16.7,14.4,73,0.0,Lluvia
+2024-07-13,Riobamba,28.9,17.2,56,0.0,Soleado
+2024-07-14,Ambato,21.4,15.6,73,0.0,Nublado
+2024-07-14,Quito,29.0,11.4,41,0.0,Lluvia
+2024-07-14,Cuenca,26.4,8.1,49,9.1,Nublado
+2024-07-14,Guayaquil,21.1,14.0,60,0.0,Parcialmente nublado
+2024-07-14,Riobamba,21.4,11.2,42,0.0,Parcialmente nublado
+2024-07-15,Ambato,23.4,11.2,43,0.0,Nublado
+2024-07-15,Quito,26.5,14.5,71,0.0,Nublado
+2024-07-15,Cuenca,25.8,13.6,44,0.0,Parcialmente nublado
+2024-07-15,Guayaquil,19.7,17.0,70,0.0,Parcialmente nublado
+2024-07-15,Riobamba,16.3,15.4,63,6.1,Lluvia
+2024-07-16,Ambato,18.4,14.4,50,0.0,Nublado
+2024-07-16,Quito,23.9,16.1,65,0.0,Lluvia
+2024-07-16,Cuenca,22.5,10.9,82,0.0,Nublado
+2024-07-16,Guayaquil,21.8,16.8,63,0.0,Soleado
+2024-07-16,Riobamba,27.1,15.4,57,0.0,Lluvia
+2024-07-17,Ambato,15.2,18.0,86,0.0,Soleado
+2024-07-17,Quito,29.0,12.9,54,0.0,Nublado
+2024-07-17,Cuenca,28.4,16.9,89,19.7,Parcialmente nublado
+2024-07-17,Guayaquil,16.9,17.2,67,0.0,Lluvia
+2024-07-17,Riobamba,28.5,9.9,87,19.6,Parcialmente nublado
+2024-07-18,Ambato,18.0,8.7,86,0.0,Parcialmente nublado
+2024-07-18,Quito,22.7,17.8,64,17.0,Parcialmente nublado
+2024-07-18,Cuenca,17.8,14.1,42,0.0,Lluvia
+2024-07-18,Guayaquil,17.4,11.5,44,0.0,Parcialmente nublado
+2024-07-18,Riobamba,29.1,11.6,78,0.0,Nublado
+2024-07-19,Ambato,18.4,11.2,46,0.0,Nublado
+2024-07-19,Quito,22.5,15.7,44,0.0,Parcialmente nublado
+2024-07-19,Cuenca,16.7,14.1,76,12.8,Parcialmente nublado
+2024-07-19,Guayaquil,19.9,13.5,87,4.2,Parcialmente nublado
+2024-07-19,Riobamba,23.9,15.1,64,14.5,Soleado
+2024-07-20,Ambato,27.1,12.5,84,9.0,Nublado
+2024-07-20,Quito,16.5,13.9,45,1.3,Parcialmente nublado
+2024-07-20,Cuenca,24.1,16.3,42,17.5,Soleado
+2024-07-20,Guayaquil,18.0,16.9,83,9.9,Lluvia
+2024-07-20,Riobamba,29.2,13.4,88,0.0,Lluvia
+2024-07-21,Ambato,15.5,15.1,48,0.0,Soleado
+2024-07-21,Quito,25.7,10.0,57,0.0,Lluvia
+2024-07-21,Cuenca,15.0,14.6,51,0.0,Parcialmente nublado
+2024-07-21,Guayaquil,24.1,12.5,71,0.0,Lluvia
+2024-07-21,Riobamba,20.1,10.6,53,0.0,Lluvia
+2024-07-22,Ambato,19.5,17.8,40,0.0,Parcialmente nublado
+2024-07-22,Quito,15.3,12.9,44,9.1,Nublado
+2024-07-22,Cuenca,22.3,16.0,88,0.0,Lluvia
+2024-07-22,Guayaquil,28.0,11.4,63,0.0,Lluvia
+2024-07-22,Riobamba,22.5,8.5,52,0.0,Lluvia
+2024-07-23,Ambato,22.2,13.2,41,9.1,Soleado
+2024-07-23,Quito,15.2,13.8,59,0.0,Parcialmente nublado
+2024-07-23,Cuenca,19.4,13.7,41,19.7,Lluvia
+2024-07-23,Guayaquil,19.4,10.6,89,0.0,Nublado
+2024-07-23,Riobamba,26.6,15.8,49,13.7,Nublado
+2024-07-24,Ambato,16.8,12.3,90,0.0,Parcialmente nublado
+2024-07-24,Quito,23.6,14.0,69,0.0,Nublado
+2024-07-24,Cuenca,18.1,15.3,74,0.0,Lluvia
+2024-07-24,Guayaquil,28.2,18.0,89,14.7,Parcialmente nublado
+2024-07-24,Riobamba,27.1,13.2,81,2.7,Soleado
+2024-07-25,Ambato,17.1,12.3,71,0.0,Lluvia
+2024-07-25,Quito,23.0,14.5,54,0.0,Soleado
+2024-07-25,Cuenca,20.5,12.3,86,0.0,Parcialmente nublado
+2024-07-25,Guayaquil,22.9,8.3,52,17.0,Soleado
+2024-07-25,Riobamba,29.9,13.9,81,2.2,Lluvia
+2024-07-26,Ambato,17.9,15.1,75,0.0,Soleado
+2024-07-26,Quito,21.0,11.4,77,5.3,Nublado
+2024-07-26,Cuenca,21.5,12.6,75,0.0,Soleado
+2024-07-26,Guayaquil,20.3,10.8,68,12.8,Soleado
+2024-07-26,Riobamba,16.3,11.1,41,0.0,Parcialmente nublado
+2024-07-27,Ambato,24.9,15.1,63,0.0,Nublado
+2024-07-27,Quito,18.2,17.1,42,0.0,Soleado
+2024-07-27,Cuenca,26.6,13.6,58,0.0,Soleado
+2024-07-27,Guayaquil,24.3,15.5,54,0.0,Nublado
+2024-07-27,Riobamba,20.3,11.6,60,0.0,Nublado
+2024-07-28,Ambato,20.0,16.4,89,14.2,Parcialmente nublado
+2024-07-28,Quito,16.2,10.7,78,0.0,Nublado
+2024-07-28,Cuenca,29.1,8.2,57,0.0,Soleado
+2024-07-28,Guayaquil,25.0,12.0,73,0.0,Parcialmente nublado
+2024-07-28,Riobamba,22.6,10.9,74,0.0,Parcialmente nublado
+2024-07-29,Ambato,22.8,13.7,55,0.0,Lluvia
+2024-07-29,Quito,24.2,11.4,57,9.3,Soleado
+2024-07-29,Cuenca,30.0,17.6,90,0.0,Lluvia
+2024-07-29,Guayaquil,22.8,11.7,76,0.0,Parcialmente nublado
+2024-07-29,Riobamba,17.5,8.7,77,0.0,Lluvia
+2024-07-30,Ambato,17.6,9.1,90,0.0,Parcialmente nublado
+2024-07-30,Quito,24.5,9.6,50,0.0,Lluvia
+2024-07-30,Cuenca,21.7,10.9,48,11.5,Soleado
+2024-07-30,Guayaquil,19.4,9.7,51,0.0,Nublado
+2024-07-30,Riobamba,21.4,10.6,76,0.0,Lluvia
+2024-07-31,Ambato,18.0,10.2,53,12.3,Lluvia
+2024-07-31,Quito,24.8,16.8,45,4.1,Lluvia
+2024-07-31,Cuenca,25.4,11.6,44,0.0,Soleado
+2024-07-31,Guayaquil,19.9,14.5,65,11.3,Lluvia
+2024-07-31,Riobamba,19.6,9.3,65,10.3,Parcialmente nublado
+2024-08-01,Ambato,26.6,9.9,44,0.0,Lluvia
+2024-08-01,Quito,21.9,16.1,55,0.0,Soleado
+2024-08-01,Cuenca,24.2,13.8,43,0.0,Lluvia
+2024-08-01,Guayaquil,21.0,16.6,49,0.0,Parcialmente nublado
+2024-08-01,Riobamba,29.8,14.5,54,0.0,Lluvia
+2024-08-02,Ambato,22.2,10.9,71,0.0,Nublado
+2024-08-02,Quito,20.2,16.7,80,8.1,Parcialmente nublado
+2024-08-02,Cuenca,23.1,10.4,65,0.0,Lluvia
+2024-08-02,Guayaquil,29.6,8.8,55,0.0,Parcialmente nublado
+2024-08-02,Riobamba,22.6,8.4,87,0.0,Lluvia
+2024-08-03,Ambato,19.8,10.8,65,13.9,Lluvia
+2024-08-03,Quito,29.5,13.3,48,16.2,Soleado
+2024-08-03,Cuenca,17.2,15.1,54,0.0,Lluvia
+2024-08-03,Guayaquil,15.9,16.9,59,0.0,Nublado
+2024-08-03,Riobamba,17.2,16.9,59,0.0,Parcialmente nublado
+2024-08-04,Ambato,24.9,15.0,65,0.0,Lluvia
+2024-08-04,Quito,20.5,12.7,59,0.0,Soleado
+2024-08-04,Cuenca,20.5,16.8,88,0.0,Nublado
+2024-08-04,Guayaquil,18.8,10.7,50,0.0,Soleado
+2024-08-04,Riobamba,20.3,12.5,80,0.0,Nublado
+2024-08-05,Ambato,22.9,14.2,61,0.0,Soleado
+2024-08-05,Quito,21.8,9.1,52,0.0,Parcialmente nublado
+2024-08-05,Cuenca,16.5,10.4,64,0.0,Parcialmente nublado
+2024-08-05,Guayaquil,17.4,9.3,80,0.2,Lluvia
+2024-08-05,Riobamba,17.4,13.8,74,0.0,Parcialmente nublado
+2024-08-06,Ambato,27.4,12.7,85,0.0,Lluvia
+2024-08-06,Quito,23.1,9.8,40,4.2,Parcialmente nublado
+2024-08-06,Cuenca,25.4,12.6,83,19.1,Lluvia
+2024-08-06,Guayaquil,29.0,16.4,81,0.0,Soleado
+2024-08-06,Riobamba,26.9,12.4,88,0.0,Soleado
+2024-08-07,Ambato,16.8,10.3,53,0.0,Soleado
+2024-08-07,Quito,29.7,14.2,40,1.4,Nublado
+2024-08-07,Cuenca,19.6,16.3,81,0.0,Parcialmente nublado
+2024-08-07,Guayaquil,25.2,17.6,51,5.7,Nublado
+2024-08-07,Riobamba,18.5,12.7,56,0.0,Lluvia
+2024-08-08,Ambato,25.8,16.6,62,9.5,Nublado
+2024-08-08,Quito,18.2,15.1,85,0.0,Lluvia
+2024-08-08,Cuenca,23.4,13.4,83,0.0,Soleado
+2024-08-08,Guayaquil,26.1,13.3,60,0.0,Nublado
+2024-08-08,Riobamba,26.9,12.8,44,0.0,Nublado
+2024-08-09,Ambato,16.8,8.3,40,2.9,Soleado
+2024-08-09,Quito,20.3,17.5,52,14.9,Parcialmente nublado
+2024-08-09,Cuenca,28.5,9.0,49,0.0,Parcialmente nublado
+2024-08-09,Guayaquil,16.4,8.2,69,12.5,Parcialmente nublado
+2024-08-09,Riobamba,29.2,10.1,61,0.0,Parcialmente nublado
+2024-08-10,Ambato,26.1,14.1,71,0.0,Parcialmente nublado
+2024-08-10,Quito,26.0,16.4,48,0.0,Parcialmente nublado
+2024-08-10,Cuenca,16.9,16.7,74,10.3,Soleado
+2024-08-10,Guayaquil,22.4,8.4,55,17.4,Lluvia
+2024-08-10,Riobamba,27.3,9.0,61,0.0,Parcialmente nublado
+2024-08-11,Ambato,25.3,8.6,77,1.6,Soleado
+2024-08-11,Quito,25.8,13.6,45,0.0,Parcialmente nublado
+2024-08-11,Cuenca,15.5,10.2,87,0.0,Nublado
+2024-08-11,Guayaquil,20.3,10.0,83,14.1,Parcialmente nublado
+2024-08-11,Riobamba,21.3,15.1,61,6.2,Lluvia
+2024-08-12,Ambato,17.6,12.9,83,0.0,Parcialmente nublado
+2024-08-12,Quito,22.2,15.1,89,0.0,Parcialmente nublado
+2024-08-12,Cuenca,19.0,13.4,82,0.0,Soleado
+2024-08-12,Guayaquil,27.2,16.9,64,0.0,Parcialmente nublado
+2024-08-12,Riobamba,25.8,9.3,65,0.0,Lluvia
+2024-08-13,Ambato,19.7,10.5,79,0.0,Nublado
+2024-08-13,Quito,20.3,13.2,70,13.9,Soleado
+2024-08-13,Cuenca,18.3,10.0,51,0.0,Lluvia
+2024-08-13,Guayaquil,19.0,16.9,82,0.0,Parcialmente nublado
+2024-08-13,Riobamba,16.5,10.3,86,0.0,Lluvia
+2024-08-14,Ambato,16.8,16.5,67,0.0,Soleado
+2024-08-14,Quito,27.5,13.4,84,7.2,Soleado
+2024-08-14,Cuenca,24.6,8.6,57,3.3,Lluvia
+2024-08-14,Guayaquil,23.8,9.8,56,0.0,Parcialmente nublado
+2024-08-14,Riobamba,18.1,17.1,47,0.0,Soleado
+2024-08-15,Ambato,16.9,11.7,44,0.0,Lluvia
+2024-08-15,Quito,24.3,9.0,73,0.0,Parcialmente nublado
+2024-08-15,Cuenca,28.6,10.7,58,0.0,Soleado
+2024-08-15,Guayaquil,27.3,10.7,58,0.0,Lluvia
+2024-08-15,Riobamba,25.4,8.9,77,0.0,Lluvia
+2024-08-16,Ambato,18.8,12.4,77,0.0,Lluvia
+2024-08-16,Quito,17.4,17.7,58,0.0,Nublado
+2024-08-16,Cuenca,18.2,13.1,45,0.0,Soleado
+2024-08-16,Guayaquil,29.6,13.8,68,0.0,Soleado
+2024-08-16,Riobamba,19.7,17.5,49,0.0,Soleado
+2024-08-17,Ambato,24.8,8.4,67,0.0,Soleado
+2024-08-17,Quito,20.9,15.0,50,0.0,Lluvia
+2024-08-17,Cuenca,19.8,17.6,41,0.0,Parcialmente nublado
+2024-08-17,Guayaquil,27.8,12.8,61,17.9,Soleado
+2024-08-17,Riobamba,27.4,10.1,43,0.0,Nublado
+2024-08-18,Ambato,22.9,12.9,72,0.0,Soleado
+2024-08-18,Quito,29.4,12.5,75,13.2,Soleado
+2024-08-18,Cuenca,29.2,8.8,90,0.0,Soleado
+2024-08-18,Guayaquil,27.8,14.1,69,0.6,Nublado
+2024-08-18,Riobamba,28.3,17.1,87,0.0,Soleado
+2024-08-19,Ambato,21.7,16.0,58,0.0,Nublado
+2024-08-19,Quito,18.4,15.6,66,0.0,Nublado
+2024-08-19,Cuenca,17.7,13.4,42,0.0,Soleado
+2024-08-19,Guayaquil,19.7,11.5,60,0.0,Lluvia
+2024-08-19,Riobamba,15.4,10.4,47,0.0,Nublado
+2024-08-20,Ambato,22.3,14.3,86,0.0,Nublado
+2024-08-20,Quito,19.2,16.4,70,4.5,Parcialmente nublado
+2024-08-20,Cuenca,20.3,13.9,77,0.0,Parcialmente nublado
+2024-08-20,Guayaquil,19.4,17.6,83,0.0,Parcialmente nublado
+2024-08-20,Riobamba,22.5,12.8,42,0.0,Soleado
+2024-08-21,Ambato,15.8,9.4,63,0.0,Parcialmente nublado
+2024-08-21,Quito,25.7,10.7,90,4.0,Nublado
+2024-08-21,Cuenca,29.4,9.2,67,0.0,Parcialmente nublado
+2024-08-21,Guayaquil,24.8,13.5,63,0.0,Parcialmente nublado
+2024-08-21,Riobamba,26.8,11.0,72,0.0,Nublado
+2024-08-22,Ambato,28.7,13.8,64,0.0,Soleado
+2024-08-22,Quito,27.4,11.4,80,0.0,Nublado
+2024-08-22,Cuenca,16.8,9.4,62,0.0,Soleado
+2024-08-22,Guayaquil,29.7,15.3,69,7.6,Lluvia
+2024-08-22,Riobamba,17.2,12.5,52,0.0,Parcialmente nublado
+2024-08-23,Ambato,27.0,14.2,63,0.0,Parcialmente nublado
+2024-08-23,Quito,29.4,16.9,77,0.0,Parcialmente nublado
+2024-08-23,Cuenca,26.8,8.7,63,0.0,Nublado
+2024-08-23,Guayaquil,19.5,17.0,80,11.3,Soleado
+2024-08-23,Riobamba,19.9,15.6,42,0.0,Nublado
+2024-08-24,Ambato,19.3,12.6,43,0.0,Soleado
+2024-08-24,Quito,29.4,14.2,79,0.0,Soleado
+2024-08-24,Cuenca,28.9,9.7,79,0.0,Parcialmente nublado
+2024-08-24,Guayaquil,29.8,15.2,89,0.0,Soleado
+2024-08-24,Riobamba,22.1,16.2,45,0.0,Lluvia
+2024-08-25,Ambato,25.2,17.9,44,0.0,Parcialmente nublado
+2024-08-25,Quito,16.3,12.6,54,0.0,Soleado
+2024-08-25,Cuenca,25.2,16.4,41,0.0,Lluvia
+2024-08-25,Guayaquil,18.2,8.4,78,0.0,Lluvia
+2024-08-25,Riobamba,26.8,8.4,66,15.8,Lluvia
+2024-08-26,Ambato,20.8,14.3,74,5.0,Soleado
+2024-08-26,Quito,23.5,17.5,71,17.3,Parcialmente nublado
+2024-08-26,Cuenca,25.7,13.2,70,0.0,Soleado
+2024-08-26,Guayaquil,28.4,8.4,79,0.0,Nublado
+2024-08-26,Riobamba,18.3,13.4,66,7.3,Lluvia
+2024-08-27,Ambato,25.3,12.3,80,0.0,Nublado
+2024-08-27,Quito,17.4,10.3,55,0.0,Nublado
+2024-08-27,Cuenca,15.0,13.1,74,0.0,Soleado
+2024-08-27,Guayaquil,15.2,15.1,41,0.0,Soleado
+2024-08-27,Riobamba,25.0,8.7,78,0.0,Nublado
+2024-08-28,Ambato,26.2,10.1,46,0.0,Soleado
+2024-08-28,Quito,21.7,12.1,63,0.0,Parcialmente nublado
+2024-08-28,Cuenca,17.5,10.7,44,19.7,Nublado
+2024-08-28,Guayaquil,15.0,10.8,74,0.0,Lluvia
+2024-08-28,Riobamba,21.7,16.3,71,5.7,Soleado
+2024-08-29,Ambato,24.4,16.9,45,0.0,Soleado
+2024-08-29,Quito,24.0,12.8,63,0.0,Soleado
+2024-08-29,Cuenca,21.4,11.2,78,0.0,Soleado
+2024-08-29,Guayaquil,16.0,12.8,86,0.0,Parcialmente nublado
+2024-08-29,Riobamba,28.4,10.0,50,0.0,Lluvia
+2024-08-30,Ambato,26.5,8.9,61,4.7,Parcialmente nublado
+2024-08-30,Quito,26.2,16.1,67,0.0,Parcialmente nublado
+2024-08-30,Cuenca,22.5,13.4,86,0.0,Soleado
+2024-08-30,Guayaquil,22.1,15.8,68,0.0,Parcialmente nublado
+2024-08-30,Riobamba,22.3,11.8,85,0.0,Lluvia
+2024-08-31,Ambato,24.3,11.2,63,0.0,Nublado
+2024-08-31,Quito,15.1,16.6,83,2.2,Parcialmente nublado
+2024-08-31,Cuenca,22.9,17.4,54,0.0,Parcialmente nublado
+2024-08-31,Guayaquil,21.6,14.9,68,6.2,Nublado
+2024-08-31,Riobamba,28.9,11.9,82,0.0,Nublado
+2024-09-01,Ambato,18.7,16.6,89,11.6,Soleado
+2024-09-01,Quito,17.5,15.4,69,0.0,Lluvia
+2024-09-01,Cuenca,26.6,15.1,55,8.8,Parcialmente nublado
+2024-09-01,Guayaquil,18.2,14.7,67,0.0,Lluvia
+2024-09-01,Riobamba,25.4,15.7,72,0.0,Nublado
+2024-09-02,Ambato,25.3,13.2,45,0.0,Parcialmente nublado
+2024-09-02,Quito,25.4,13.9,66,5.2,Soleado
+2024-09-02,Cuenca,19.7,12.7,41,0.0,Parcialmente nublado
+2024-09-02,Guayaquil,21.0,17.1,75,0.0,Soleado
+2024-09-02,Riobamba,26.3,11.6,64,0.0,Nublado
+2024-09-03,Ambato,17.0,9.9,44,0.0,Parcialmente nublado
+2024-09-03,Quito,26.0,11.8,78,0.0,Lluvia
+2024-09-03,Cuenca,22.6,15.0,73,0.0,Parcialmente nublado
+2024-09-03,Guayaquil,16.9,9.7,46,0.0,Soleado
+2024-09-03,Riobamba,17.9,8.8,42,0.0,Nublado
+2024-09-04,Ambato,20.8,9.4,41,7.9,Soleado
+2024-09-04,Quito,27.6,16.5,89,0.0,Lluvia
+2024-09-04,Cuenca,19.7,10.4,87,11.7,Nublado
+2024-09-04,Guayaquil,20.5,12.4,74,0.0,Nublado
+2024-09-04,Riobamba,25.2,9.0,41,0.0,Soleado
+2024-09-05,Ambato,21.5,18.0,55,0.0,Lluvia
+2024-09-05,Quito,15.7,8.2,63,0.0,Nublado
+2024-09-05,Cuenca,17.2,15.6,76,0.0,Nublado
+2024-09-05,Guayaquil,16.5,16.0,46,12.0,Soleado
+2024-09-05,Riobamba,23.3,8.6,89,0.0,Soleado
+2024-09-06,Ambato,27.9,15.7,82,12.5,Soleado
+2024-09-06,Quito,25.2,12.1,75,5.0,Lluvia
+2024-09-06,Cuenca,24.5,12.2,49,0.0,Nublado
+2024-09-06,Guayaquil,21.7,13.9,71,0.0,Nublado
+2024-09-06,Riobamba,19.5,13.5,88,8.1,Soleado
+2024-09-07,Ambato,27.7,12.2,84,0.0,Soleado
+2024-09-07,Quito,18.2,10.5,64,0.0,Soleado
+2024-09-07,Cuenca,17.6,17.8,58,2.9,Soleado
+2024-09-07,Guayaquil,26.3,10.8,48,0.0,Parcialmente nublado
+2024-09-07,Riobamba,26.9,12.9,63,9.6,Lluvia
+2024-09-08,Ambato,22.7,10.4,59,10.8,Lluvia
+2024-09-08,Quito,25.2,16.5,47,0.0,Nublado
+2024-09-08,Cuenca,26.0,14.9,67,7.8,Parcialmente nublado
+2024-09-08,Guayaquil,24.4,16.5,72,0.0,Nublado
+2024-09-08,Riobamba,25.1,12.6,67,18.5,Lluvia
+2024-09-09,Ambato,29.9,9.0,63,0.0,Soleado
+2024-09-09,Quito,15.8,16.1,44,6.3,Soleado
+2024-09-09,Cuenca,16.0,13.6,40,0.0,Soleado
+2024-09-09,Guayaquil,17.2,13.7,90,0.0,Lluvia
+2024-09-09,Riobamba,19.7,16.2,81,0.0,Nublado
+2024-09-10,Ambato,21.4,14.2,82,11.3,Soleado
+2024-09-10,Quito,18.6,11.7,42,0.0,Soleado
+2024-09-10,Cuenca,19.8,8.6,77,15.5,Parcialmente nublado
+2024-09-10,Guayaquil,23.3,17.7,64,0.0,Nublado
+2024-09-10,Riobamba,29.9,10.1,73,0.0,Lluvia
+2024-09-11,Ambato,15.3,15.8,72,0.0,Lluvia
+2024-09-11,Quito,22.6,11.6,82,0.0,Nublado
+2024-09-11,Cuenca,15.3,13.5,53,14.1,Parcialmente nublado
+2024-09-11,Guayaquil,15.5,14.8,71,0.0,Nublado
+2024-09-11,Riobamba,27.1,8.7,86,0.0,Lluvia
+2024-09-12,Ambato,26.9,16.6,62,2.4,Lluvia
+2024-09-12,Quito,25.1,15.5,66,0.0,Nublado
+2024-09-12,Cuenca,21.9,9.4,66,13.5,Parcialmente nublado
+2024-09-12,Guayaquil,24.4,16.7,49,16.9,Soleado
+2024-09-12,Riobamba,24.2,8.8,54,0.0,Soleado
+2024-09-13,Ambato,17.1,10.0,60,0.0,Lluvia
+2024-09-13,Quito,24.4,12.2,66,7.8,Soleado
+2024-09-13,Cuenca,19.0,12.2,73,0.0,Parcialmente nublado
+2024-09-13,Guayaquil,19.7,8.9,89,0.0,Nublado
+2024-09-13,Riobamba,24.0,14.8,41,0.4,Soleado
+2024-09-14,Ambato,29.6,14.2,84,0.6,Lluvia
+2024-09-14,Quito,24.7,9.4,72,0.0,Soleado
+2024-09-14,Cuenca,24.9,14.8,75,0.0,Nublado
+2024-09-14,Guayaquil,20.6,14.4,60,0.0,Soleado
+2024-09-14,Riobamba,21.8,11.1,54,5.9,Nublado
+2024-09-15,Ambato,27.4,15.0,49,19.3,Nublado
+2024-09-15,Quito,28.5,9.3,74,0.0,Parcialmente nublado
+2024-09-15,Cuenca,19.5,15.6,79,0.0,Nublado
+2024-09-15,Guayaquil,22.7,9.2,84,11.2,Nublado
+2024-09-15,Riobamba,16.1,10.5,66,17.9,Parcialmente nublado
+2024-09-16,Ambato,26.9,9.6,68,0.0,Nublado
+2024-09-16,Quito,23.0,16.8,58,10.2,Lluvia
+2024-09-16,Cuenca,18.7,8.5,49,0.0,Lluvia
+2024-09-16,Guayaquil,22.7,15.1,75,0.0,Nublado
+2024-09-16,Riobamba,18.2,12.5,53,0.0,Parcialmente nublado
+2024-09-17,Ambato,15.1,11.6,84,0.4,Lluvia
+2024-09-17,Quito,26.6,8.6,66,0.0,Soleado
+2024-09-17,Cuenca,24.7,8.9,76,0.0,Soleado
+2024-09-17,Guayaquil,27.4,14.7,42,0.0,Lluvia
+2024-09-17,Riobamba,20.6,11.6,53,0.0,Lluvia
+2024-09-18,Ambato,22.3,8.1,50,0.0,Soleado
+2024-09-18,Quito,26.7,10.3,86,16.5,Parcialmente nublado
+2024-09-18,Cuenca,27.2,9.6,87,0.0,Soleado
+2024-09-18,Guayaquil,29.5,8.7,88,0.0,Lluvia
+2024-09-18,Riobamba,26.2,13.4,48,0.0,Parcialmente nublado
+2024-09-19,Ambato,15.9,13.3,44,0.0,Lluvia
+2024-09-19,Quito,25.6,13.2,88,0.0,Parcialmente nublado
+2024-09-19,Cuenca,24.9,12.1,77,3.9,Nublado
+2024-09-19,Guayaquil,16.8,8.8,83,0.0,Nublado
+2024-09-19,Riobamba,15.9,15.3,76,18.8,Lluvia
+2024-09-20,Ambato,16.2,10.7,66,0.0,Nublado
+2024-09-20,Quito,17.2,10.3,50,0.0,Parcialmente nublado
+2024-09-20,Cuenca,19.4,9.7,55,0.0,Soleado
+2024-09-20,Guayaquil,17.0,9.4,86,0.0,Lluvia
+2024-09-20,Riobamba,17.0,11.6,87,0.0,Soleado
+2024-09-21,Ambato,26.5,8.3,81,0.0,Lluvia
+2024-09-21,Quito,29.7,12.0,56,0.0,Soleado
+2024-09-21,Cuenca,25.0,8.5,76,0.0,Nublado
+2024-09-21,Guayaquil,24.5,12.4,62,0.0,Parcialmente nublado
+2024-09-21,Riobamba,21.7,14.5,53,0.0,Nublado
+2024-09-22,Ambato,27.1,11.9,50,0.0,Soleado
+2024-09-22,Quito,25.9,15.9,79,0.0,Soleado
+2024-09-22,Cuenca,25.1,11.2,75,0.0,Parcialmente nublado
+2024-09-22,Guayaquil,24.3,12.5,59,15.4,Nublado
+2024-09-22,Riobamba,18.9,10.3,53,0.0,Parcialmente nublado
+2024-09-23,Ambato,15.0,12.1,85,0.0,Soleado
+2024-09-23,Quito,15.3,11.5,86,0.0,Soleado
+2024-09-23,Cuenca,29.9,14.4,85,0.0,Parcialmente nublado
+2024-09-23,Guayaquil,17.8,16.2,47,0.0,Soleado
+2024-09-23,Riobamba,22.4,10.6,58,0.0,Soleado
+2024-09-24,Ambato,23.0,12.9,49,0.0,Nublado
+2024-09-24,Quito,16.3,13.8,72,0.0,Soleado
+2024-09-24,Cuenca,27.9,8.5,56,10.5,Parcialmente nublado
+2024-09-24,Guayaquil,19.3,9.7,51,18.5,Nublado
+2024-09-24,Riobamba,23.1,13.6,83,0.0,Lluvia
+2024-09-25,Ambato,15.5,17.0,72,0.0,Nublado
+2024-09-25,Quito,15.2,10.6,67,7.4,Nublado
+2024-09-25,Cuenca,22.6,17.6,59,0.0,Nublado
+2024-09-25,Guayaquil,27.7,17.6,85,0.0,Parcialmente nublado
+2024-09-25,Riobamba,19.6,11.2,61,0.0,Parcialmente nublado
+2024-09-26,Ambato,25.6,10.0,42,0.0,Lluvia
+2024-09-26,Quito,16.1,17.5,76,0.0,Nublado
+2024-09-26,Cuenca,19.2,11.0,70,0.0,Parcialmente nublado
+2024-09-26,Guayaquil,26.1,12.9,59,0.0,Lluvia
+2024-09-26,Riobamba,23.8,12.7,73,0.0,Parcialmente nublado
+2024-09-27,Ambato,28.7,11.6,78,0.0,Nublado
+2024-09-27,Quito,25.3,9.1,58,18.0,Nublado
+2024-09-27,Cuenca,16.8,8.8,44,4.8,Soleado
+2024-09-27,Guayaquil,21.3,8.5,77,0.0,Parcialmente nublado
+2024-09-27,Riobamba,19.0,14.7,76,0.0,Lluvia
+2024-09-28,Ambato,26.2,11.7,41,0.0,Nublado
+2024-09-28,Quito,16.7,17.6,80,14.8,Nublado
+2024-09-28,Cuenca,15.3,17.6,44,0.0,Parcialmente nublado
+2024-09-28,Guayaquil,27.2,9.0,82,0.0,Parcialmente nublado
+2024-09-28,Riobamba,18.3,10.0,62,0.0,Soleado
+2024-09-29,Ambato,26.5,9.7,87,4.6,Lluvia
+2024-09-29,Quito,17.0,8.9,76,0.0,Soleado
+2024-09-29,Cuenca,26.6,13.0,54,0.0,Parcialmente nublado
+2024-09-29,Guayaquil,24.1,9.5,49,8.4,Parcialmente nublado
+2024-09-29,Riobamba,15.8,16.3,54,0.0,Nublado
+2024-09-30,Ambato,27.5,16.9,74,6.8,Nublado
+2024-09-30,Quito,23.5,14.9,80,0.0,Lluvia
+2024-09-30,Cuenca,22.6,12.4,42,0.0,Parcialmente nublado
+2024-09-30,Guayaquil,16.7,9.0,63,8.4,Lluvia
+2024-09-30,Riobamba,23.0,16.0,56,0.0,Parcialmente nublado
+2024-10-01,Ambato,28.2,11.8,81,0.0,Parcialmente nublado
+2024-10-01,Quito,21.5,9.0,60,0.0,Nublado
+2024-10-01,Cuenca,21.1,16.8,49,0.0,Lluvia
+2024-10-01,Guayaquil,27.9,8.5,66,19.5,Nublado
+2024-10-01,Riobamba,16.5,9.8,81,18.2,Nublado
+2024-10-02,Ambato,24.1,10.3,87,4.6,Parcialmente nublado
+2024-10-02,Quito,17.9,10.9,81,0.0,Parcialmente nublado
+2024-10-02,Cuenca,18.7,14.2,67,15.2,Parcialmente nublado
+2024-10-02,Guayaquil,22.3,10.1,58,0.0,Parcialmente nublado
+2024-10-02,Riobamba,27.2,10.6,52,0.0,Nublado
+2024-10-03,Ambato,18.9,9.2,70,1.9,Soleado
+2024-10-03,Quito,19.9,15.3,46,2.6,Parcialmente nublado
+2024-10-03,Cuenca,29.3,13.8,82,17.3,Nublado
+2024-10-03,Guayaquil,16.3,12.4,62,0.0,Lluvia
+2024-10-03,Riobamba,16.5,16.9,56,0.0,Parcialmente nublado
+2024-10-04,Ambato,19.4,11.8,66,5.6,Nublado
+2024-10-04,Quito,23.7,9.1,79,1.7,Soleado
+2024-10-04,Cuenca,27.2,15.3,71,1.9,Soleado
+2024-10-04,Guayaquil,29.5,9.0,49,12.3,Parcialmente nublado
+2024-10-04,Riobamba,17.2,14.6,77,0.0,Parcialmente nublado
+2024-10-05,Ambato,26.9,15.2,61,9.2,Parcialmente nublado
+2024-10-05,Quito,16.7,8.8,53,19.6,Nublado
+2024-10-05,Cuenca,27.9,10.9,75,0.0,Lluvia
+2024-10-05,Guayaquil,24.6,15.8,50,1.6,Nublado
+2024-10-05,Riobamba,17.9,14.3,67,0.0,Parcialmente nublado
+2024-10-06,Ambato,18.5,16.2,58,0.0,Lluvia
+2024-10-06,Quito,17.0,16.6,89,0.0,Soleado
+2024-10-06,Cuenca,26.9,15.1,67,0.0,Parcialmente nublado
+2024-10-06,Guayaquil,24.3,8.7,45,4.7,Parcialmente nublado
+2024-10-06,Riobamba,21.8,15.4,55,9.9,Soleado
+2024-10-07,Ambato,30.0,11.2,71,9.1,Soleado
+2024-10-07,Quito,17.6,17.4,79,4.5,Soleado
+2024-10-07,Cuenca,17.1,10.3,69,0.0,Parcialmente nublado
+2024-10-07,Guayaquil,27.7,17.3,82,0.0,Parcialmente nublado
+2024-10-07,Riobamba,26.9,15.4,87,0.0,Parcialmente nublado
+2024-10-08,Ambato,26.9,13.8,78,0.0,Soleado
+2024-10-08,Quito,21.7,9.6,82,0.0,Lluvia
+2024-10-08,Cuenca,15.3,10.0,74,4.8,Lluvia
+2024-10-08,Guayaquil,19.7,8.4,88,0.0,Parcialmente nublado
+2024-10-08,Riobamba,29.8,17.2,47,0.0,Parcialmente nublado
+2024-10-09,Ambato,17.3,15.9,48,0.0,Lluvia
+2024-10-09,Quito,19.3,11.6,87,7.0,Lluvia
+2024-10-09,Cuenca,21.8,10.4,61,9.2,Parcialmente nublado
+2024-10-09,Guayaquil,28.2,11.8,67,0.0,Parcialmente nublado
+2024-10-09,Riobamba,16.9,16.7,78,0.0,Soleado
+2024-10-10,Ambato,29.2,12.7,62,4.3,Soleado
+2024-10-10,Quito,21.1,17.3,62,0.0,Parcialmente nublado
+2024-10-10,Cuenca,24.7,11.1,53,0.0,Soleado
+2024-10-10,Guayaquil,17.1,15.3,42,0.0,Lluvia
+2024-10-10,Riobamba,20.8,9.1,42,0.0,Lluvia
+2024-10-11,Ambato,26.8,15.8,73,0.0,Parcialmente nublado
+2024-10-11,Quito,22.1,15.1,45,0.0,Soleado
+2024-10-11,Cuenca,15.9,12.8,88,0.0,Nublado
+2024-10-11,Guayaquil,20.5,10.9,85,0.0,Nublado
+2024-10-11,Riobamba,28.6,15.5,68,0.0,Parcialmente nublado
+2024-10-12,Ambato,20.1,16.3,81,0.0,Parcialmente nublado
+2024-10-12,Quito,18.4,9.0,48,2.0,Lluvia
+2024-10-12,Cuenca,29.2,11.3,63,0.0,Parcialmente nublado
+2024-10-12,Guayaquil,25.7,16.9,41,1.4,Lluvia
+2024-10-12,Riobamba,15.2,14.0,87,0.0,Soleado
+2024-10-13,Ambato,26.3,10.7,74,0.0,Soleado
+2024-10-13,Quito,23.4,11.7,70,17.1,Parcialmente nublado
+2024-10-13,Cuenca,24.9,11.1,80,0.0,Parcialmente nublado
+2024-10-13,Guayaquil,29.5,8.1,73,0.0,Nublado
+2024-10-13,Riobamba,21.7,8.7,73,0.0,Nublado
+2024-10-14,Ambato,26.5,9.6,49,19.2,Parcialmente nublado
+2024-10-14,Quito,17.4,15.1,86,0.0,Nublado
+2024-10-14,Cuenca,27.0,16.5,68,11.0,Lluvia
+2024-10-14,Guayaquil,17.2,8.2,80,0.0,Parcialmente nublado
+2024-10-14,Riobamba,18.1,12.9,74,0.0,Nublado
+2024-10-15,Ambato,26.0,15.8,76,0.0,Parcialmente nublado
+2024-10-15,Quito,21.1,9.0,40,12.1,Parcialmente nublado
+2024-10-15,Cuenca,20.0,14.0,89,0.0,Nublado
+2024-10-15,Guayaquil,21.7,11.0,88,0.0,Nublado
+2024-10-15,Riobamba,28.8,16.7,48,0.0,Soleado
+2024-10-16,Ambato,18.3,17.0,87,0.0,Parcialmente nublado
+2024-10-16,Quito,25.3,9.1,64,2.3,Parcialmente nublado
+2024-10-16,Cuenca,23.9,13.3,59,0.0,Lluvia
+2024-10-16,Guayaquil,28.6,17.4,72,12.6,Parcialmente nublado
+2024-10-16,Riobamba,23.4,13.7,59,9.8,Lluvia
+2024-10-17,Ambato,18.8,10.6,49,0.0,Soleado
+2024-10-17,Quito,20.3,15.2,81,9.6,Parcialmente nublado
+2024-10-17,Cuenca,28.6,8.2,43,0.0,Nublado
+2024-10-17,Guayaquil,17.7,13.2,89,0.0,Parcialmente nublado
+2024-10-17,Riobamba,15.9,8.2,75,13.3,Nublado
+2024-10-18,Ambato,15.3,16.2,60,0.0,Parcialmente nublado
+2024-10-18,Quito,18.2,17.6,67,8.7,Lluvia
+2024-10-18,Cuenca,16.0,13.0,73,0.0,Parcialmente nublado
+2024-10-18,Guayaquil,16.2,12.3,51,0.0,Soleado
+2024-10-18,Riobamba,28.9,15.8,57,0.0,Parcialmente nublado
+2024-10-19,Ambato,25.0,17.4,56,19.7,Parcialmente nublado
+2024-10-19,Quito,24.4,18.0,57,0.0,Lluvia
+2024-10-19,Cuenca,15.2,14.9,90,4.4,Nublado
+2024-10-19,Guayaquil,25.1,13.8,83,0.0,Lluvia
+2024-10-19,Riobamba,24.1,9.7,40,0.0,Lluvia
+2024-10-20,Ambato,23.1,15.3,48,0.0,Soleado
+2024-10-20,Quito,22.8,8.6,84,0.0,Lluvia
+2024-10-20,Cuenca,21.0,12.8,66,0.0,Parcialmente nublado
+2024-10-20,Guayaquil,16.1,8.4,66,0.0,Nublado
+2024-10-20,Riobamba,15.3,8.5,74,0.0,Parcialmente nublado
+2024-10-21,Ambato,27.1,9.7,86,0.0,Soleado
+2024-10-21,Quito,25.3,14.4,72,0.0,Lluvia
+2024-10-21,Cuenca,23.2,17.8,64,0.0,Parcialmente nublado
+2024-10-21,Guayaquil,25.1,10.3,60,14.6,Parcialmente nublado
+2024-10-21,Riobamba,22.3,9.8,76,0.0,Soleado
+2024-10-22,Ambato,26.4,8.9,73,0.0,Soleado
+2024-10-22,Quito,21.5,9.8,84,0.0,Nublado
+2024-10-22,Cuenca,25.1,12.7,47,6.4,Soleado
+2024-10-22,Guayaquil,21.1,13.4,54,0.0,Nublado
+2024-10-22,Riobamba,17.6,8.0,51,0.0,Soleado
+2024-10-23,Ambato,27.4,17.1,58,2.9,Nublado
+2024-10-23,Quito,27.1,11.7,64,0.0,Soleado
+2024-10-23,Cuenca,29.9,9.8,79,11.0,Parcialmente nublado
+2024-10-23,Guayaquil,18.0,8.0,64,0.0,Soleado
+2024-10-23,Riobamba,15.9,8.8,82,16.5,Nublado
+2024-10-24,Ambato,26.2,15.2,87,0.0,Soleado
+2024-10-24,Quito,24.2,12.3,74,0.0,Parcialmente nublado
+2024-10-24,Cuenca,24.5,8.8,73,0.0,Soleado
+2024-10-24,Guayaquil,18.6,8.9,77,0.0,Parcialmente nublado
+2024-10-24,Riobamba,24.4,8.2,62,14.9,Parcialmente nublado
+2024-10-25,Ambato,21.5,11.4,78,0.0,Parcialmente nublado
+2024-10-25,Quito,26.6,10.5,87,10.0,Nublado
+2024-10-25,Cuenca,18.3,17.4,53,0.0,Parcialmente nublado
+2024-10-25,Guayaquil,22.1,9.1,43,0.0,Lluvia
+2024-10-25,Riobamba,25.1,11.7,89,0.0,Parcialmente nublado
+2024-10-26,Ambato,16.7,13.0,80,13.5,Parcialmente nublado
+2024-10-26,Quito,25.1,8.3,85,7.7,Parcialmente nublado
+2024-10-26,Cuenca,29.8,16.4,68,0.0,Nublado
+2024-10-26,Guayaquil,26.9,15.9,40,9.7,Soleado
+2024-10-26,Riobamba,22.7,12.7,51,0.0,Lluvia
+2024-10-27,Ambato,23.9,9.9,51,0.0,Parcialmente nublado
+2024-10-27,Quito,20.5,11.6,43,0.0,Nublado
+2024-10-27,Cuenca,17.5,11.4,55,0.0,Lluvia
+2024-10-27,Guayaquil,21.6,9.9,86,0.0,Nublado
+2024-10-27,Riobamba,23.8,15.0,79,7.0,Soleado
+2024-10-28,Ambato,16.0,13.3,79,0.0,Parcialmente nublado
+2024-10-28,Quito,16.6,11.1,45,0.0,Soleado
+2024-10-28,Cuenca,24.7,16.2,76,0.0,Lluvia
+2024-10-28,Guayaquil,23.5,17.3,86,0.0,Soleado
+2024-10-28,Riobamba,15.1,9.3,41,0.0,Soleado
+2024-10-29,Ambato,28.7,11.3,81,0.0,Soleado
+2024-10-29,Quito,28.6,17.0,42,0.0,Nublado
+2024-10-29,Cuenca,17.9,18.0,73,0.0,Soleado
+2024-10-29,Guayaquil,15.4,14.7,60,18.0,Soleado
+2024-10-29,Riobamba,16.6,8.2,87,0.0,Lluvia
+2024-10-30,Ambato,27.6,8.6,84,0.0,Soleado
+2024-10-30,Quito,21.5,9.1,57,0.1,Parcialmente nublado
+2024-10-30,Cuenca,28.6,9.8,68,0.0,Lluvia
+2024-10-30,Guayaquil,29.5,13.8,51,0.0,Nublado
+2024-10-30,Riobamba,15.5,10.3,70,0.0,Nublado
+2024-10-31,Ambato,21.7,12.0,65,13.5,Lluvia
+2024-10-31,Quito,23.9,14.1,74,0.0,Parcialmente nublado
+2024-10-31,Cuenca,15.7,9.0,51,0.0,Soleado
+2024-10-31,Guayaquil,23.7,14.7,56,0.3,Parcialmente nublado
+2024-10-31,Riobamba,21.1,17.5,83,0.0,Parcialmente nublado
+2024-11-01,Ambato,24.6,14.1,62,0.0,Nublado
+2024-11-01,Quito,19.8,17.5,57,0.0,Parcialmente nublado
+2024-11-01,Cuenca,19.8,15.9,40,3.3,Nublado
+2024-11-01,Guayaquil,24.6,8.9,72,0.0,Lluvia
+2024-11-01,Riobamba,19.2,14.9,43,14.8,Nublado
+2024-11-02,Ambato,26.3,11.6,42,0.0,Lluvia
+2024-11-02,Quito,24.9,14.7,47,0.0,Nublado
+2024-11-02,Cuenca,27.5,8.5,73,0.0,Soleado
+2024-11-02,Guayaquil,20.7,12.2,65,0.0,Parcialmente nublado
+2024-11-02,Riobamba,28.9,11.5,80,0.0,Nublado
+2024-11-03,Ambato,16.0,12.5,81,0.0,Parcialmente nublado
+2024-11-03,Quito,22.8,8.3,90,0.0,Soleado
+2024-11-03,Cuenca,20.3,12.1,46,0.0,Nublado
+2024-11-03,Guayaquil,15.4,16.3,53,0.0,Soleado
+2024-11-03,Riobamba,28.7,8.8,73,0.0,Soleado
+2024-11-04,Ambato,23.0,15.9,77,16.4,Nublado
+2024-11-04,Quito,26.1,14.0,60,11.0,Lluvia
+2024-11-04,Cuenca,17.3,8.9,85,18.0,Soleado
+2024-11-04,Guayaquil,21.4,16.8,81,0.0,Soleado
+2024-11-04,Riobamba,25.8,12.6,62,0.0,Nublado
+2024-11-05,Ambato,21.7,8.8,61,0.0,Lluvia
+2024-11-05,Quito,16.5,15.1,72,0.0,Parcialmente nublado
+2024-11-05,Cuenca,21.3,16.0,61,0.0,Parcialmente nublado
+2024-11-05,Guayaquil,21.6,15.6,55,0.0,Soleado
+2024-11-05,Riobamba,23.7,10.2,59,0.0,Parcialmente nublado
+2024-11-06,Ambato,28.9,10.1,73,9.4,Lluvia
+2024-11-06,Quito,18.7,12.5,64,0.0,Nublado
+2024-11-06,Cuenca,17.0,16.2,77,4.2,Parcialmente nublado
+2024-11-06,Guayaquil,25.0,17.4,63,0.0,Lluvia
+2024-11-06,Riobamba,18.9,17.5,63,1.8,Soleado
+2024-11-07,Ambato,21.1,14.3,61,0.0,Lluvia
+2024-11-07,Quito,17.3,10.5,72,0.0,Parcialmente nublado
+2024-11-07,Cuenca,21.2,16.4,71,0.0,Soleado
+2024-11-07,Guayaquil,18.4,13.7,42,0.0,Soleado
+2024-11-07,Riobamba,21.4,13.3,79,0.0,Parcialmente nublado
+2024-11-08,Ambato,27.8,12.5,71,9.8,Nublado
+2024-11-08,Quito,27.2,9.5,88,0.0,Parcialmente nublado
+2024-11-08,Cuenca,28.2,12.2,43,0.0,Soleado
+2024-11-08,Guayaquil,23.8,15.6,55,0.0,Soleado
+2024-11-08,Riobamba,20.9,9.2,77,0.0,Soleado
+2024-11-09,Ambato,23.0,11.1,50,0.0,Soleado
+2024-11-09,Quito,21.7,13.7,69,0.0,Soleado
+2024-11-09,Cuenca,16.7,13.2,82,12.6,Lluvia
+2024-11-09,Guayaquil,23.5,8.2,75,0.0,Lluvia
+2024-11-09,Riobamba,17.0,10.3,75,0.0,Parcialmente nublado
+2024-11-10,Ambato,29.2,12.8,43,0.0,Nublado
+2024-11-10,Quito,28.1,14.3,83,17.6,Nublado
+2024-11-10,Cuenca,20.3,12.2,45,0.0,Soleado
+2024-11-10,Guayaquil,20.5,17.6,70,2.7,Nublado
+2024-11-10,Riobamba,19.4,11.9,88,12.5,Nublado
+2024-11-11,Ambato,20.2,10.4,55,1.2,Soleado
+2024-11-11,Quito,27.3,14.5,77,17.1,Lluvia
+2024-11-11,Cuenca,20.9,16.1,57,0.0,Soleado
+2024-11-11,Guayaquil,19.2,14.2,61,0.0,Nublado
+2024-11-11,Riobamba,28.2,11.9,56,3.0,Soleado
+2024-11-12,Ambato,29.8,14.1,90,0.0,Nublado
+2024-11-12,Quito,22.4,15.9,62,0.0,Soleado
+2024-11-12,Cuenca,25.3,12.7,66,0.0,Lluvia
+2024-11-12,Guayaquil,27.2,9.7,75,0.0,Lluvia
+2024-11-12,Riobamba,17.7,16.8,69,0.0,Nublado
+2024-11-13,Ambato,22.3,17.0,52,0.0,Lluvia
+2024-11-13,Quito,17.6,9.2,72,0.0,Lluvia
+2024-11-13,Cuenca,28.2,17.7,49,0.0,Lluvia
+2024-11-13,Guayaquil,20.7,17.3,45,0.0,Lluvia
+2024-11-13,Riobamba,17.9,16.9,76,0.0,Soleado
+2024-11-14,Ambato,18.0,8.8,43,10.7,Lluvia
+2024-11-14,Quito,26.5,10.7,46,0.0,Soleado
+2024-11-14,Cuenca,28.1,10.1,64,0.0,Soleado
+2024-11-14,Guayaquil,20.0,11.3,56,0.0,Parcialmente nublado
+2024-11-14,Riobamba,21.0,8.4,53,0.0,Nublado
+2024-11-15,Ambato,22.2,16.9,56,4.4,Parcialmente nublado
+2024-11-15,Quito,17.1,17.8,63,7.9,Lluvia
+2024-11-15,Cuenca,21.5,14.0,55,9.4,Soleado
+2024-11-15,Guayaquil,20.0,9.4,85,18.3,Lluvia
+2024-11-15,Riobamba,29.2,14.8,55,0.0,Lluvia
+2024-11-16,Ambato,23.6,9.7,73,15.2,Soleado
+2024-11-16,Quito,27.6,13.0,73,0.0,Lluvia
+2024-11-16,Cuenca,24.1,14.1,52,0.0,Soleado
+2024-11-16,Guayaquil,22.0,13.1,58,0.0,Soleado
+2024-11-16,Riobamba,18.1,14.9,65,0.0,Parcialmente nublado
+2024-11-17,Ambato,23.8,8.5,66,18.3,Nublado
+2024-11-17,Quito,27.6,17.3,63,0.0,Nublado
+2024-11-17,Cuenca,25.3,16.0,72,12.9,Lluvia
+2024-11-17,Guayaquil,21.1,10.4,88,0.0,Nublado
+2024-11-17,Riobamba,22.9,11.9,72,9.6,Lluvia
+2024-11-18,Ambato,20.5,10.5,87,0.0,Lluvia
+2024-11-18,Quito,22.1,8.6,79,0.0,Parcialmente nublado
+2024-11-18,Cuenca,24.5,12.3,51,8.3,Soleado
+2024-11-18,Guayaquil,22.6,14.2,60,0.0,Parcialmente nublado
+2024-11-18,Riobamba,23.9,16.8,86,0.0,Soleado
+2024-11-19,Ambato,18.5,16.4,56,0.0,Soleado
+2024-11-19,Quito,20.4,9.6,61,0.0,Parcialmente nublado
+2024-11-19,Cuenca,22.9,9.4,79,0.0,Soleado
+2024-11-19,Guayaquil,26.2,10.4,40,0.0,Nublado
+2024-11-19,Riobamba,23.8,16.5,76,0.1,Nublado
+2024-11-20,Ambato,25.8,14.5,58,0.0,Lluvia
+2024-11-20,Quito,27.0,11.1,45,0.0,Soleado
+2024-11-20,Cuenca,28.8,15.4,58,0.0,Parcialmente nublado
+2024-11-20,Guayaquil,20.6,13.8,63,0.0,Soleado
+2024-11-20,Riobamba,22.0,15.0,60,0.0,Soleado
+2024-11-21,Ambato,18.0,12.6,50,0.0,Parcialmente nublado
+2024-11-21,Quito,22.6,12.9,49,0.0,Parcialmente nublado
+2024-11-21,Cuenca,19.3,13.1,76,0.0,Parcialmente nublado
+2024-11-21,Guayaquil,17.4,15.1,76,0.0,Lluvia
+2024-11-21,Riobamba,27.7,13.6,48,14.8,Soleado
+2024-11-22,Ambato,25.9,12.8,52,0.0,Nublado
+2024-11-22,Quito,29.2,10.1,72,0.0,Nublado
+2024-11-22,Cuenca,24.6,14.5,68,0.0,Lluvia
+2024-11-22,Guayaquil,26.4,12.6,65,0.0,Parcialmente nublado
+2024-11-22,Riobamba,24.9,17.4,78,19.3,Soleado
+2024-11-23,Ambato,24.9,14.3,68,10.7,Parcialmente nublado
+2024-11-23,Quito,28.5,17.6,74,19.1,Lluvia
+2024-11-23,Cuenca,16.3,9.4,63,0.0,Nublado
+2024-11-23,Guayaquil,26.2,15.8,57,0.0,Parcialmente nublado
+2024-11-23,Riobamba,20.3,15.5,89,0.0,Soleado
+2024-11-24,Ambato,16.4,14.1,70,0.0,Soleado
+2024-11-24,Quito,18.2,14.5,69,1.9,Parcialmente nublado
+2024-11-24,Cuenca,19.4,15.3,49,0.0,Soleado
+2024-11-24,Guayaquil,20.6,17.3,79,0.0,Lluvia
+2024-11-24,Riobamba,27.0,8.6,58,0.0,Nublado
+2024-11-25,Ambato,26.6,8.2,74,11.4,Lluvia
+2024-11-25,Quito,27.4,13.9,55,5.0,Soleado
+2024-11-25,Cuenca,25.7,15.2,52,0.0,Nublado
+2024-11-25,Guayaquil,19.7,12.7,56,16.0,Soleado
+2024-11-25,Riobamba,17.6,10.3,79,0.0,Nublado
+2024-11-26,Ambato,22.1,8.2,89,0.0,Parcialmente nublado
+2024-11-26,Quito,23.1,13.5,78,0.0,Soleado
+2024-11-26,Cuenca,21.5,9.1,56,0.0,Lluvia
+2024-11-26,Guayaquil,23.6,8.5,89,0.0,Parcialmente nublado
+2024-11-26,Riobamba,18.0,17.2,43,0.0,Nublado
+2024-11-27,Ambato,27.9,13.6,78,0.0,Soleado
+2024-11-27,Quito,15.6,16.7,42,0.0,Lluvia
+2024-11-27,Cuenca,22.6,10.6,49,15.0,Lluvia
+2024-11-27,Guayaquil,16.8,8.6,85,0.0,Nublado
+2024-11-27,Riobamba,19.6,11.0,43,0.0,Nublado
+2024-11-28,Ambato,21.2,17.6,75,0.0,Lluvia
+2024-11-28,Quito,27.3,17.5,68,16.2,Nublado
+2024-11-28,Cuenca,17.7,9.2,60,0.0,Lluvia
+2024-11-28,Guayaquil,18.5,16.7,43,0.0,Nublado
+2024-11-28,Riobamba,16.2,8.5,53,18.2,Nublado
+2024-11-29,Ambato,15.8,10.9,47,0.0,Lluvia
+2024-11-29,Quito,17.7,8.9,77,0.0,Soleado
+2024-11-29,Cuenca,16.4,14.6,71,0.0,Parcialmente nublado
+2024-11-29,Guayaquil,15.4,15.0,82,0.0,Lluvia
+2024-11-29,Riobamba,24.3,17.7,45,0.0,Soleado
+2024-11-30,Ambato,16.6,10.6,48,13.1,Nublado
+2024-11-30,Quito,27.6,16.9,47,8.0,Parcialmente nublado
+2024-11-30,Cuenca,21.7,9.2,89,0.0,Soleado
+2024-11-30,Guayaquil,23.0,16.4,52,0.0,Lluvia
+2024-11-30,Riobamba,19.5,8.4,81,0.0,Nublado
+2024-12-01,Ambato,27.0,8.1,61,0.0,Parcialmente nublado
+2024-12-01,Quito,28.0,10.0,53,0.0,Nublado
+2024-12-01,Cuenca,29.1,13.6,40,11.3,Parcialmente nublado
+2024-12-01,Guayaquil,25.8,8.4,59,0.0,Soleado
+2024-12-01,Riobamba,16.9,11.7,59,0.0,Lluvia
+2024-12-02,Ambato,24.8,11.7,54,0.0,Soleado
+2024-12-02,Quito,21.1,10.9,62,0.0,Soleado
+2024-12-02,Cuenca,18.4,12.8,66,7.4,Parcialmente nublado
+2024-12-02,Guayaquil,26.2,15.6,40,0.0,Soleado
+2024-12-02,Riobamba,19.2,15.5,43,0.0,Parcialmente nublado
+2024-12-03,Ambato,28.1,9.5,47,11.2,Nublado
+2024-12-03,Quito,17.3,15.9,41,0.0,Lluvia
+2024-12-03,Cuenca,24.9,13.4,60,5.3,Lluvia
+2024-12-03,Guayaquil,18.4,13.5,45,15.1,Nublado
+2024-12-03,Riobamba,25.9,10.3,56,0.0,Lluvia
+2024-12-04,Ambato,20.1,13.3,55,4.2,Parcialmente nublado
+2024-12-04,Quito,17.1,14.6,43,13.2,Lluvia
+2024-12-04,Cuenca,21.8,16.4,89,14.8,Nublado
+2024-12-04,Guayaquil,18.6,8.9,77,3.9,Lluvia
+2024-12-04,Riobamba,20.2,16.7,77,0.0,Soleado
+2024-12-05,Ambato,17.7,17.1,70,0.0,Parcialmente nublado
+2024-12-05,Quito,25.5,12.1,47,0.0,Parcialmente nublado
+2024-12-05,Cuenca,17.2,15.8,78,0.0,Lluvia
+2024-12-05,Guayaquil,22.6,10.7,75,0.0,Parcialmente nublado
+2024-12-05,Riobamba,18.0,14.2,41,0.0,Soleado
