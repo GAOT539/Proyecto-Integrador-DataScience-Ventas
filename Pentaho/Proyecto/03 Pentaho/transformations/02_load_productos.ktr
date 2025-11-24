@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <transformation>
   <info>
-    <name>01_load_clientes</name>
+    <name>02_load_productos</name>
     <description/>
     <extended_description/>
     <trans_version/>
     <trans_type>Normal</trans_type>
+    <trans_status>0</trans_status>
     <directory>/</directory>
     <parameters>
     </parameters>
@@ -558,7 +559,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\Users\mateo\OneDrive\Escritorio\Octavo TI\Integración de sistemas\2do Parcial\Proyecto\01 csv\productos.csv</filename>
+    <filename>C:\Users\mateo\OneDrive\Documentos\GitHub\Proyecto-Integrador-DataScience-Ventas\Pentaho\Proyecto\01 csv\productos.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -571,7 +572,7 @@
     <parallel>N</parallel>
     <newline_possible>N</newline_possible>
     <format>mixed</format>
-    <encoding/>
+    <encoding>UTF-8</encoding>
     <fields>
       <field>
         <name>id_producto</name>
@@ -657,23 +658,18 @@
     <fields>
       <field>
         <name>id_producto</name>
-        <rename/>
       </field>
       <field>
         <name>nombre</name>
-        <rename/>
       </field>
       <field>
         <name>categoria</name>
-        <rename/>
       </field>
       <field>
         <name>precio</name>
-        <rename/>
       </field>
       <field>
         <name>stock</name>
-        <rename/>
       </field>
       <select_unspecified>N</select_unspecified>
     </fields>
