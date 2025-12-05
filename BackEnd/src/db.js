@@ -14,7 +14,7 @@ pool.connect((err, client, release) => {
     if (err) {
         return console.error('Error adquiriendo cliente', err.stack);
     }
-    console.log('Base de datos conectada exitosamente');
+    console.log('✅ Base de datos conectada exitosamente');
     release();
 });
 
