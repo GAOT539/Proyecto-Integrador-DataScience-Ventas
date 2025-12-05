@@ -18,7 +18,7 @@ router.get('/filtros/productos', dataController.getDimProducto);
 router.get('/social/data', dataController.getDataRedes);
 
 // --- Ruta Avanzada (SQL Dinámico) ---
-router.post('/admin/sql', dataController.ejecutarSQL);
+router.post('/sql', dataController.ejecutarSQL);
 
 // router.get('/kpis', keycloak.protect(), dataController.getKPIs); <--- COMENTA ESTA
 router.get('/kpis', dataController.getKPIs); // <--- DEJA ESTA SIN PROTECCIÓN

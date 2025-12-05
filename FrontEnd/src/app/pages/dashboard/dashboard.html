@@ -1,6 +1,8 @@
 <div class="container mt-5">
   <div class="d-flex justify-content-between align-items-center mb-4">
-    <h1 class="text-primary">📊 Dashboard de Ventas</h1>
+    <h1 class="fw-bold m-0" style="color: #0f2c59;">
+    🦝 Nexus Comercial & Social GAOT
+    </h1>
     <div class="d-flex align-items-center gap-3 mb-4">
       <!-- Botón con estilos de Bootstrap (Primary) -->
       <button class="btn btn-primary px-4 py-2" (click)="irAClientes()">
@@ -66,6 +68,360 @@
       </div>
     </div>
   </div>
+
+  <!-- ============================================= -->
+  <!-- NUEVA SECCIÓN: ANÁLISIS PROFUNDO (SQL) -->
+  <!-- ============================================= -->
+
+  <div class="mt-5 mb-3 d-flex align-items-center justify-content-between">
+    <h3 class="text-primary fw-bold m-0">📊 Inteligencia de Negocio & Redes</h3>
+    <button class="btn btn-sm btn-outline-secondary" (click)="cargarGraficosAvanzados()">
+      <i class="bi bi-arrow-clockwise"></i> Actualizar Datos
+    </button>
+  </div>
+
+  <!-- Spinner de Carga para esta sección -->
+  <div *ngIf="cargandoAvanzado" class="text-center py-5 bg-white rounded shadow-sm">
+    <div class="spinner-border text-primary" role="status"></div>
+    <p class="text-muted mt-2 small">Procesando datos del Data Warehouse...</p>
+  </div>
+
+  <div *ngIf="!cargandoAvanzado" class="row g-4 animate__animated animate__fadeIn">
+    <!-- 1. TOP PRODUCTOS -->
+    <div class="col-md-4">
+      <div class="card border-0 shadow-sm h-100">
+        <div class="card-header bg-white fw-bold py-3 border-bottom-0">
+          🏆 Top Productos (Unidades)
+        </div>
+        <div class="card-body pt-0">
+          <div *ngFor="let item of topProductos" class="mb-3">
+            <div class="d-flex justify-content-between small mb-1">
+              <span class="fw-medium text-dark">{{ item.nombre }}</span>
+              <span class="text-muted">{{ item.valor }} un.</span>
+            </div>
+            <div class="progress" style="height: 6px">
+              <div class="progress-bar bg-primary" [style.width.%]="item.percent"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- 2. CLIENTES VIP -->
+    <div class="col-md-4">
+      <div class="card border-0 shadow-sm h-100">
+        <div class="card-header bg-white fw-bold py-3 border-bottom-0">
+          💎 Clientes Estrella (Gasto)
+        </div>
+        <div class="card-body p-0">
+          <ul class="list-group list-group-flush">
+            <li
+              *ngFor="let c of topClientes; let i = index"
+              class="list-group-item border-0 d-flex align-items-center px-4 py-2"
+            >
+              <!-- Ranking -->
+              <span class="badge rounded-pill bg-light text-dark me-3 border">#{{ i + 1 }}</span>
+
+              <!-- Datos del Cliente -->
+              <div class="flex-grow-1 lh-sm">
+                <!-- AQUÍ EL CAMBIO: Mostramos c.email -->
+                <div class="fw-bold small text-primary">{{ c.email }}</div>
+                <small class="text-muted" style="font-size: 0.75rem">{{ c.ciudad }}</small>
+              </div>
+
+              <!-- Total Gastado -->
+              <span class="text-success fw-bold small">{{ c.valor | currency }}</span>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <!-- 3. MÉTODOS DE PAGO -->
+    <div class="col-md-4">
+      <div class="card border-0 shadow-sm h-100">
+        <div class="card-header bg-white fw-bold py-3 border-bottom-0">💳 Preferencia de Pago</div>
+        <div class="card-body pt-0">
+          <div *ngFor="let m of metodosPago" class="d-flex align-items-center mb-3">
+            <div class="me-3 fs-4 text-secondary">
+              <i class="bi bi-credit-card" *ngIf="m.metodo_pago === 'Tarjeta Crédito'"></i>
+              <i class="bi bi-cash-coin" *ngIf="m.metodo_pago === 'Efectivo'"></i>
+              <i class="bi bi-paypal" *ngIf="m.metodo_pago === 'PayPal'"></i>
+            </div>
+            <div class="flex-grow-1">
+              <div class="d-flex justify-content-between small mb-1">
+                <span class="fw-bold">{{ m.metodo_pago }}</span>
+                <span>{{ m.valor }} ops</span>
+              </div>
+              <div class="progress" style="height: 8px">
+                <div class="progress-bar bg-info" [style.width.%]="m.percent"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- 4. ENGAGEMENT SOCIAL -->
+    <div class="col-md-6">
+        <div class="card border-0 shadow-sm h-100">
+            <div class="card-header bg-white fw-bold py-3 border-bottom-0 d-flex justify-content-between">
+                <span>📱 Impacto en Redes (Interacciones)</span>
+            </div>
+            <div class="card-body">
+                <div class="row text-center g-3">
+                    <div *ngFor="let red of socialEngagement" class="col-6 col-md-3">
+                        <div class="p-2 bg-light rounded h-100 border d-flex flex-column justify-content-center">
+                            
+                            <!-- CAMBIO AQUÍ: Fuente más pequeña (1rem) y text-nowrap para que no baje de línea -->
+                            <div class="fw-bold text-dark mb-1 text-nowrap" style="font-size: 0.95rem;">
+                                {{ red.valor | number }}
+                            </div>
+
+                            <small class="text-muted text-uppercase fw-bold" style="font-size: 0.65rem;">
+                                {{ red.plataforma }}
+                            </small>
+                            
+                            <div class="progress mt-2" style="height: 4px;">
+                                <div class="progress-bar" 
+                                     [ngClass]="{
+                                        'bg-primary': red.plataforma === 'Facebook',
+                                        'bg-dark': red.plataforma === 'TikTok',
+                                        'bg-info': red.plataforma === 'Twitter',
+                                        'bg-danger': red.plataforma === 'Instagram'
+                                     }"
+                                     [style.width.%]="red.percent"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- 5. VENTAS POR CIUDAD -->
+    <div class="col-md-6">
+      <div class="card border-0 shadow-sm h-100">
+        <div class="card-header bg-white fw-bold py-3 border-bottom-0">📍 Top Ciudades</div>
+        <div class="card-body pt-0">
+          <div *ngFor="let ciudad of ventasPorCiudad" class="mb-3 d-flex align-items-center">
+            <span class="badge bg-light text-secondary border me-2" style="width: 80px">{{
+              ciudad.ciudad
+            }}</span>
+            <div class="progress flex-grow-1" style="height: 24px">
+              <div
+                class="progress-bar bg-success bg-opacity-75 text-start px-2"
+                [style.width.%]="ciudad.percent"
+              >
+                {{ ciudad.valor | currency }}
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- 6. SENTIMIENTO (BARRA TOTAL) -->
+    <div class="col-12">
+      <div class="card border-0 shadow-sm bg-dark text-white">
+        <div class="card-body d-flex justify-content-between align-items-center">
+          <h5 class="m-0"><i class="bi bi-emoji-smile me-2"></i> Sentimiento de Marca</h5>
+
+          <div class="d-flex gap-4">
+            <div *ngFor="let s of socialSentimiento" class="text-center">
+              <div class="fs-3 fw-bold">
+                {{ s.valor }}
+              </div>
+              <div class="small text-white-50 text-uppercase" style="font-size: 0.7rem">
+                <span *ngIf="s.sentimiento === 'Positivo'" class="text-success">●</span>
+                <span *ngIf="s.sentimiento === 'Negativo'" class="text-danger">●</span>
+                <span *ngIf="s.sentimiento === 'Neutral'" class="text-warning">●</span>
+                {{ s.sentimiento }}
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- SEPARADOR -->
+  <div class="my-4 border-top"></div>
+  <h4 class="text-primary fw-bold mb-4">📈 Tendencias y Contexto</h4>
+
+  <div *ngIf="!cargandoAvanzado" class="row g-4 animate__animated animate__fadeInUp">
+    <!-- 7. VENTAS MENSUALES (Gráfico de Barras Verticales) -->
+    <div class="col-md-12 col-lg-8">
+      <div class="card border-0 shadow-sm h-100">
+        <div
+          class="card-header bg-white fw-bold py-3 border-bottom-0 d-flex justify-content-between"
+        >
+          <span>📅 Comportamiento Mensual</span>
+          <span class="badge bg-light text-primary">Ingresos ($)</span>
+        </div>
+        <div class="card-body pt-4">
+          <!-- Contenedor del Gráfico -->
+          <div
+            class="d-flex align-items-end justify-content-around h-100"
+            style="min-height: 250px"
+          >
+            <div
+              *ngFor="let m of ventasMensuales"
+              class="d-flex flex-column align-items-center flex-grow-1 group"
+              style="height: 100%"
+            >
+              <!-- Tooltip Valor (Visible siempre o al hover) -->
+              <div
+                class="mb-2 fw-bold text-dark small animate__animated animate__fadeIn"
+                style="font-size: 0.75rem"
+              >
+                {{ m.valor | currency : 'USD' : 'symbol' : '1.0-0' }}
+              </div>
+
+              <!-- Barra Vertical -->
+              <div class="w-100 d-flex justify-content-center align-items-end flex-grow-1">
+                <div
+                  class="rounded-top transition-all"
+                  [style.height.%]="m.percent"
+                  [ngClass]="m.percent > 80 ? 'bg-primary' : 'bg-primary bg-opacity-75'"
+                  style="
+                    width: 60%;
+                    min-height: 4px;
+                    position: relative;
+                    transition: height 1s ease-out;
+                  "
+                ></div>
+              </div>
+
+              <!-- Etiqueta Mes -->
+              <div class="mt-2 text-muted fw-bold text-uppercase small" style="font-size: 0.7rem">
+                {{ m.mes_nombre | slice : 0 : 3 }}
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- 8. DEMOGRAFÍA (Género) -->
+    <div class="col-md-6 col-lg-4">
+      <div class="card border-0 shadow-sm h-100">
+        <div class="card-header bg-white fw-bold py-3 border-bottom-0">👥 Demografía</div>
+        <div class="card-body d-flex flex-column justify-content-center">
+          <div *ngFor="let g of ventasGenero" class="mb-4">
+            <div class="d-flex justify-content-between mb-2 align-items-center">
+              <span class="fw-bold d-flex align-items-center gap-2">
+                <div
+                  class="rounded-circle d-flex align-items-center justify-content-center text-white"
+                  [ngClass]="g.genero === 'M' ? 'bg-primary' : 'bg-danger'"
+                  style="width: 32px; height: 32px"
+                >
+                  <i
+                    class="bi"
+                    [ngClass]="g.genero === 'M' ? 'bi-gender-male' : 'bi-gender-female'"
+                  ></i>
+                </div>
+                {{ g.genero === 'M' ? 'Hombres' : 'Mujeres' }}
+              </span>
+              <span class="fw-bold"
+                >{{ g.valor | number }} <small class="text-muted fw-normal">compras</small></span
+              >
+            </div>
+            <div class="progress" style="height: 8px">
+              <div
+                class="progress-bar rounded-pill"
+                [ngClass]="g.genero === 'M' ? 'bg-primary' : 'bg-danger'"
+                [style.width.%]="g.percent"
+              ></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- 9. DÍA PREFERIDO (Estilo Top Productos) -->
+    <div class="col-md-6 col-lg-4">
+      <div class="card border-0 shadow-sm h-100">
+        <div class="card-header bg-white fw-bold py-3 border-bottom-0">📅 Día de Compra</div>
+        <div class="card-body pt-0">
+          <div *ngFor="let d of ventasDiaSemana" class="mb-3">
+            <!-- Fila Superior: Nombre del Día y Valor -->
+            <div class="d-flex justify-content-between small mb-1">
+              <span class="fw-medium text-dark">{{ d.dia }}</span>
+              <span class="text-muted">{{ d.valor }} ops</span>
+            </div>
+
+            <!-- Barra de Progreso -->
+            <div class="progress" style="height: 6px">
+              <div class="progress-bar bg-secondary" [style.width.%]="d.percent"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- 10. VENTAS POR EDAD (Nuevo Gráfico) -->
+    <div class="col-md-6 col-lg-4">
+      <div class="card border-0 shadow-sm h-100">
+        <div class="card-header bg-white fw-bold py-3 border-bottom-0">🎯 Ventas por Edad</div>
+        <div class="card-body pt-0">
+          <div *ngFor="let s of ventasSegmentoEdad" class="mb-3">
+            <div class="d-flex justify-content-between small mb-1">
+              <span class="fw-bold text-dark">
+                <i class="bi bi-people-fill me-1 text-muted"></i> {{ s.segmento_edad }}
+              </span>
+              <span class="fw-bold text-success">{{
+                s.valor | currency : 'USD' : 'symbol' : '1.0-0'
+              }}</span>
+            </div>
+            <!-- Barra de Progreso -->
+            <div class="progress" style="height: 8px">
+              <div
+                class="progress-bar bg-success"
+                style="opacity: 0.8"
+                [style.width.%]="s.percent"
+              ></div>
+            </div>
+          </div>
+
+          <!-- Mensaje si no hay datos de edad -->
+          <div *ngIf="ventasSegmentoEdad.length === 0" class="text-center text-muted py-4 small">
+            No hay segmentos de edad definidos.
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- 11. GAMA DE PRODUCTOS (Decimales corregidos) -->
+    <div class="col-md-6 col-lg-4">
+      <div class="card border-0 shadow-sm h-100">
+        <div class="card-header bg-white fw-bold py-3 border-bottom-0">🏷️ Gama de Productos</div>
+        <div class="card-body d-flex flex-column justify-content-center">
+          <div *ngFor="let r of ventasRangoPrecio" class="mb-4">
+            <div class="d-flex justify-content-between mb-1 align-items-end">
+              <span class="fw-bold text-uppercase small text-muted">{{ r.rango_precio }}</span>
+              <span class="fw-bold text-success">{{
+                r.valor | currency : 'USD' : 'symbol' : '1.0-0'
+              }}</span>
+            </div>
+            <div class="progress" style="height: 18px">
+              <div
+                class="progress-bar bg-success bg-opacity-75 d-flex align-items-center justify-content-end pe-2"
+                [style.width.%]="r.percent"
+              >
+                <!-- DECIMALES CORREGIDOS: 1.2-2 -->
+                <span class="small text-white fw-bold" style="font-size: 0.7rem">
+                  {{ r.percent | number : '1.2-2' }}%
+                </span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <hr class="my-5 border-secondary opacity-25" />
 
   <!-- TABLA DE VENTAS -->
   <h3 class="mb-3">Últimas Transacciones</h3>

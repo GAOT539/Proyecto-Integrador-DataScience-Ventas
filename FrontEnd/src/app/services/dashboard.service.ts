@@ -32,4 +32,8 @@ export class DashboardService {
   buscarCliente(termino: string): Observable<any> {
     return this.http.get(`${this.apiUrl}/clientes/buscar?termino=${termino}`);
   }
+
+  getCustomSQL(consulta: string): Observable<any> {
+    return this.http.post(`${this.apiUrl}/sql`, { consulta });
+  }
 }
