@@ -137,30 +137,25 @@ BEGIN
 END
 \$\$;
 
--- 2. Dar permisos TOTALES sobre la base de datos
-GRANT CONNECT ON DATABASE ventas_db TO app_ventas;
+-- Otorgar permisos
+-- Otorgar uso de los esquemas
+GRANT USAGE ON SCHEMA staging TO app_ventas;
+GRANT USAGE ON SCHEMA dwh TO app_ventas;
 
--- 3. Dar permisos TOTALES sobre los esquemas (Poder crear/borrar tablas)
-GRANT ALL PRIVILEGES ON SCHEMA staging TO app_ventas;
-GRANT ALL PRIVILEGES ON SCHEMA dwh TO app_ventas;
-GRANT ALL PRIVILEGES ON SCHEMA public TO app_ventas;
+-- Permisos en staging (LECTURA/ESCRITURA COMPLETA)
+GRANT ALL ON ALL TABLES IN SCHEMA staging TO app_ventas;
+GRANT ALL ON ALL SEQUENCES IN SCHEMA staging TO app_ventas;
 
--- 4. Dar permisos TOTALES sobre todas las tablas actuales (Leer, Escribir, Borrar, Truncar)
-GRANT ALL PRIVILEGES ON ALL TABLES IN SCHEMA staging TO app_ventas;
-GRANT ALL PRIVILEGES ON ALL TABLES IN SCHEMA dwh TO app_ventas;
-GRANT ALL PRIVILEGES ON ALL TABLES IN SCHEMA public TO app_ventas;
+-- Permisos en dwh para ETL
+GRANT SELECT, INSERT, UPDATE ON ALL TABLES IN SCHEMA dwh TO app_ventas;
 
--- 5. Dar permisos TOTALES sobre secuencias (Para los ID autoincrementables)
-GRANT ALL PRIVILEGES ON ALL SEQUENCES IN SCHEMA staging TO app_ventas;
-GRANT ALL PRIVILEGES ON ALL SEQUENCES IN SCHEMA dwh TO app_ventas;
-GRANT ALL PRIVILEGES ON ALL SEQUENCES IN SCHEMA public TO app_ventas;
+-- Permisos en secuencias (necesario para SERIAL)
+GRANT USAGE, SELECT, UPDATE ON ALL SEQUENCES IN SCHEMA dwh TO app_ventas;
 
--- 6. Configurar para el FUTURO (Que las tablas nuevas también tengan permisos automáticos)
-ALTER DEFAULT PRIVILEGES IN SCHEMA dwh GRANT ALL PRIVILEGES ON TABLES TO app_ventas;
-ALTER DEFAULT PRIVILEGES IN SCHEMA staging GRANT ALL PRIVILEGES ON TABLES TO app_ventas;
-ALTER DEFAULT PRIVILEGES IN SCHEMA public GRANT ALL PRIVILEGES ON TABLES TO app_ventas;
-ALTER DEFAULT PRIVILEGES IN SCHEMA dwh GRANT ALL PRIVILEGES ON SEQUENCES TO app_ventas;
-ALTER DEFAULT PRIVILEGES IN SCHEMA staging GRANT ALL PRIVILEGES ON SEQUENCES TO app_ventas;
+-- Para que futuros objetos también tengan permiso automáticamente:
+ALTER DEFAULT PRIVILEGES IN SCHEMA dwh GRANT SELECT, INSERT, UPDATE ON TABLES TO app_ventas;
+ALTER DEFAULT PRIVILEGES IN SCHEMA dwh GRANT USAGE, SELECT, UPDATE ON SEQUENCES TO app_ventas;
+
 
 EOF
 

@@ -161,7 +161,7 @@ const ejecutarSQL = async (req, res) => {
     try {
         const result = await pool.query(consulta);
         res.json({
-            columnas: result.fields.map(f => f.name), // Enviamos nombres de columnas
+            columnas: result.fields.map(f => f.name), 
             filas: result.rows,
             total: result.rowCount
         });

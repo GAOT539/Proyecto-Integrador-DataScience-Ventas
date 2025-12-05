@@ -1,0 +1,63 @@
+<div class="container mt-5">
+    <!-- Encabezado con botón Volver -->
+    <div class="d-flex align-items-center mb-4">
+        <a routerLink="/" class="btn btn-outline-secondary me-3">⬅ Volver al Dashboard</a>
+        <h1 class="text-primary m-0">👥 Gestión de Clientes</h1>
+    </div>
+
+    <!-- TARJETA DE BÚSQUEDA -->
+    <div class="card shadow-sm mb-5">
+        <div class="card-body p-4">
+            <label class="form-label fw-bold">Buscar Cliente</label>
+            <div class="input-group input-group-lg">
+                <span class="input-group-text bg-white">🔍</span>
+                <!-- Input conectado con ngModel -->
+                <input type="text" class="form-control" 
+                       [(ngModel)]="terminoBusqueda" 
+                       (keyup.enter)="buscar()"
+                       placeholder="Escribe un nombre (ej: Juan) o correo...">
+                
+                <button class="btn btn-primary px-4" (click)="buscar()" [disabled]="buscando">
+                    {{ buscando ? 'Buscando...' : 'Buscar' }}
+                </button>
+            </div>
+            <!-- Mensajes de Ayuda / Error -->
+            <small class="text-muted mt-2 d-block" *ngIf="!errorMsg">Presiona Enter para buscar.</small>
+            <div *ngIf="errorMsg" class="alert alert-warning mt-3 mb-0">
+                {{ errorMsg }}
+            </div>
+        </div>
+    </div>
+
+    <!-- RESULTADOS -->
+    <div *ngIf="clientes.length > 0" class="animate__animated animate__fadeIn">
+        <h3 class="mb-3">Resultados encontrados <span class="badge bg-secondary">{{ clientes.length }}</span></h3>
+        
+        <div class="table-responsive shadow rounded">
+            <table class="table table-hover mb-0 bg-white">
+                <thead class="table-dark">
+                    <tr>
+                        <th>ID</th>
+                        <th>Nombre Completo</th>
+                        <th>Email</th>
+                        <th>Ciudad</th>
+                        <th>Edad</th>
+                        <th>Género</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr *ngFor="let c of clientes">
+                        <td>{{ c.id_cliente_nk }}</td>
+                        <td class="fw-bold text-primary">{{ c.nombre_completo }}</td>
+                        <td>{{ c.email }}</td>
+                        <td>{{ c.ciudad }}</td>
+                        <td>
+                            <span class="badge bg-info text-dark">{{ c.edad }} años</span>
+                        </td>
+                        <td>{{ c.genero }}</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

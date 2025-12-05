@@ -3,7 +3,7 @@ const router = express.Router();
 const dataController = require('../controllers/dataController');
 
 // --- Rutas de Dashboard y Ventas ---
-router.get('/kpis', dataController.getKPIs);
+//router.get('/kpis', dataController.getKPIs);
 router.get('/ventas', dataController.getVentas);
 router.get('/grafico-categorias', dataController.getVentasPorCategoria);
 
@@ -19,5 +19,9 @@ router.get('/social/data', dataController.getDataRedes);
 
 // --- Ruta Avanzada (SQL Dinámico) ---
 router.post('/admin/sql', dataController.ejecutarSQL);
+
+// router.get('/kpis', keycloak.protect(), dataController.getKPIs); <--- COMENTA ESTA
+router.get('/kpis', dataController.getKPIs); // <--- DEJA ESTA SIN PROTECCIÓN
+
 
 module.exports = router;

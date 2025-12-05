@@ -1,0 +1,92 @@
+<div class="container mt-5">
+  <div class="d-flex justify-content-between align-items-center mb-4">
+    <h1 class="text-primary">📊 Dashboard de Ventas</h1>
+    <div class="d-flex align-items-center gap-3 mb-4">
+      <!-- Botón con estilos de Bootstrap (Primary) -->
+      <button class="btn btn-primary px-4 py-2" (click)="irAClientes()">
+        <i class="bi bi-people me-2"></i> Buscar Clientes
+      </button>
+
+      <!-- Badge alineado -->
+      <span class="badge bg-success rounded-pill">En vivo</span>
+    </div>
+  </div>
+
+  <!-- TARJETAS DE KPIs -->
+  <div class="row mb-4" *ngIf="kpis">
+    <div class="col-md-4">
+      <div class="card text-white bg-primary mb-3 shadow">
+        <div class="card-header">Ingresos Totales</div>
+        <div class="card-body">
+          <h2 class="card-title">{{ kpis.ingresos_totales | currency }}</h2>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-4">
+      <div class="card text-white bg-success mb-3 shadow">
+        <div class="card-header">Clientes Únicos</div>
+        <div class="card-body">
+          <h2 class="card-title">{{ kpis.clientes_unicos || 0 }}</h2>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-4">
+      <div class="card text-white bg-warning mb-3 shadow">
+        <div class="card-header">Total Transacciones</div>
+        <div class="card-body">
+          <h2 class="card-title text-dark">{{ kpis.total_ventas || 0 }}</h2>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- SECCIÓN GRÁFICO (Con protección SSR) -->
+  <div class="row mb-4">
+    <div class="col-12">
+      <div class="card shadow">
+        <div class="card-header bg-white font-weight-bold">📈 Rendimiento por Categoría</div>
+        <div class="card-body" style="height: 300px">
+          <!-- PROTECCIÓN: isBrowser && chartLoaded -->
+          <!-- Esto evita el error "NotYetImplemented" en el servidor -->
+          <canvas
+            baseChart
+            *ngIf="isBrowser && chartLoaded"
+            [data]="barChartData"
+            [options]="barChartOptions"
+            [type]="barChartType"
+          >
+          </canvas>
+
+          <!-- Mensaje de carga mientras Angular arranca en el navegador -->
+          <div *ngIf="!chartLoaded" class="text-center py-5">
+            <div class="spinner-border text-primary" role="status"></div>
+            <p class="mt-2 text-muted">Cargando gráfico...</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- TABLA DE VENTAS -->
+  <h3 class="mb-3">Últimas Transacciones</h3>
+  <div class="table-responsive shadow rounded">
+    <table class="table table-striped table-hover mb-0">
+      <thead class="table-dark">
+        <tr>
+          <th>Fecha</th>
+          <th>Cliente</th>
+          <th>Producto</th>
+          <th>Total</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let v of ventas">
+          <td>{{ v.fecha | date : 'short' }}</td>
+          <td>{{ v.cliente }}</td>
+          <td>{{ v.producto }}</td>
+          <td class="fw-bold text-success">{{ v.total | currency }}</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
